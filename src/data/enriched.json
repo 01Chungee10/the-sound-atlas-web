@@ -79,6 +79,21 @@
       "label": "국립국악원 국악사전: 금보와 기보법",
       "url": "https://www.gugak.go.kr/ency/topic/view/1802",
       "type": "국가기관"
+    },
+    "korea-history-gumbo": {
+      "label": "국사편찬위원회 우리역사넷: 17세기 악보",
+      "url": "https://contents.history.go.kr/front/km/view.do?levelId=km_025_0040_0030_0020",
+      "type": "국가 역사 편찬 기관"
+    },
+    "korea-history-sak": {
+      "label": "국사편찬위원회 신편 한국사: 삭대엽의 발생과 전개",
+      "url": "https://contents.history.go.kr/front/nh/view.do?levelId=nh_031_0060_0030_0020_0050",
+      "type": "국가 역사 편찬 기관"
+    },
+    "korea-gagok": {
+      "label": "국립국악원 국악사전: 대엽조의 전개",
+      "url": "https://www.gugak.go.kr/ency/topic/view/1640",
+      "type": "국가기관"
     }
   },
   "chapters": {
@@ -505,7 +520,8 @@
       "look": "국립국악원과 규장각에서 소개하는 《양금신보》의 원문·거문고 산형·합자보를 차례로 보세요.",
       "sources": [
         "korea-yang",
-        "korea-notation"
+        "korea-notation",
+        "korea-history-gumbo"
       ],
       "caution": "이 시기의 《양금신보》 제목을 18세기 이후 유입되는 서양금(洋琴) 악기로서의 '양금'과 혼동하지 않습니다."
     },
@@ -521,7 +537,8 @@
       "look": "남한산성의 현재 사진은 병자호란 사건 공간의 흔적이지만 1636년의 직접 사진이 아님을 의식하면서 살펴보세요.",
       "sources": [
         "korea-geumbo",
-        "korea-notation"
+        "korea-notation",
+        "korea-history-gumbo"
       ]
     },
     "korea-1650": {
@@ -536,9 +553,11 @@
       "look": "《악학궤범》의 도식과 민간 금보의 합자보를 비교하여 국가 의례와 사적 풍류의 기록 목적 차이를 찾아보세요.",
       "sources": [
         "korea-geumbo",
-        "korea-notation"
+        "korea-notation",
+        "korea-history-sak",
+        "korea-gagok"
       ],
-      "caution": "17세기 중후반 가곡의 변화를 현대 성악 연주 하나로 직접 복원했다고 설명하지 않습니다."
+      "caution": "악곡의 명칭과 최초 악보 수록연도, 실제 유행한 시기는 구별해야 합니다. 삭대엽은 17세기 악보에서 확인되지만 유행·다양한 파생곡의 전개는 18세기까지 이어집니다. 현대 가곡의 한 공연을 1650년대 원곡 재현이라고 단정하지 않습니다."
     },
     "korea-1675": {
       "setting": "17세기 후반 장악원 악관 신성은 《신증금보》(1680)를 정리했다. 한립·김성기 등 거문고 명인의 연주는 후대 금보에서 여러 모습으로 이어졌고, 문인과 음악 전문인의 관계도 풍류 전승에 중요했다.",
@@ -552,9 +571,11 @@
       "look": "국립국악원 《신증금보》 원본 복제본과 거문고 연주 모습을 비교해 주법·악조·가락 분화를 추적하세요.",
       "sources": [
         "korea-geumbo-2",
-        "korea-geumbo"
+        "korea-geumbo",
+        "korea-history-sak",
+        "korea-gagok"
       ],
-      "caution": "신성의 《신증금보》 원본은 소실됐고 현재 전하는 것은 사본입니다. 후대 판소리의 출현 연대도 추정 범위를 표시합니다."
+      "caution": "신성의 《신증금보》 원본은 소실됐고 현재 전하는 것은 사본입니다. 만대엽·중대엽·삭대엽의 기록과 실제 당대 유행의 정도는 구별합니다. 후대 판소리의 출현 연대 역시 추정 범위로 표시합니다."
     }
   },
   "version": "0.2.0",
