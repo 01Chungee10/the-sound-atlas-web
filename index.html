@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta name="robots" content="noindex,nofollow" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#111c29" />
+  <meta name="description" content="1600–1700년, 8개국 음악사의 주요 장면을 사료·이미지·음악과 함께 탐색하는 개인 학습용 스크롤 아틀라스" />
+  <title>17세기, 소리의 세계 — 역사 음악 아틀라스</title>
+  <link rel="stylesheet" href="./src/styles.css" />
+  <script src="./src/app.js" type="module"></script>
+</head>
+<body>
+  <a class="skip-link" href="#atlas">본문 바로가기</a>
+  <div class="reading-meter" id="readingMeter" aria-hidden="true"></div>
+  <header class="site-header" id="top">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">◈</span><span>THE SOUND ATLAS <small>1600—1700</small></span></div>
+    <div class="header-right"><span class="header-progress" id="headerProgress">프롤로그</span><button class="plain-button" type="button" id="openAbout" aria-haspopup="dialog">이 프로젝트</button></div>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-orb hero-orb-one" aria-hidden="true"></div><div class="hero-orb hero-orb-two" aria-hidden="true"></div>
+      <div class="hero-inner">
+        <p class="kicker">AN INTERACTIVE HISTORY OF MUSIC</p>
+        <p class="hero-century" aria-label="17세기">XVII <span>century</span></p>
+        <h1 id="heroTitle">17세기,<br /><em>소리의 세계</em></h1>
+        <p class="hero-description">오페라가 태어나고, 악보가 국경을 넘고, 전쟁 속에서도 음악은 살아남았습니다. 같은 100년을 살아낸 여덟 나라의 소리를 따라 내려가 보세요.</p>
+        <div class="hero-actions"><a class="primary-link" href="#atlas">시간 여행 시작 <span aria-hidden="true">↘</span></a><span class="hero-meta">8개국 · 4개 시대 · 32개 장면</span></div>
+      </div>
+      <div class="hero-side-note" aria-hidden="true">SCROLL TO EXPLORE &nbsp; ↓</div>
+      <div class="hero-bottom"><span>1600</span><span class="hero-axis" aria-hidden="true"></span><span>1700</span></div>
+    </section>
+
+    <section class="intro" aria-labelledby="introTitle">
+      <div class="section-container intro-grid">
+        <p class="overline">01 / EXHIBITION NOTE</p>
+        <div><h2 id="introTitle">음악은 혼자서<br />발전하지 않았습니다.</h2><p>이탈리아의 무대가 프랑스 궁정과 오스트리아 제국으로 건너가고, 독일의 오르간 음악은 전쟁을 지나 시민의 공간으로 확장됩니다. 동시대 동아시아에서는 악보·연희·궁중과 민간의 전승 방식이 각기 다른 역사를 만듭니다.</p><p>이 아틀라스는 <strong>25년씩 네 번</strong> 시간을 건너면서, 매 시대마다 <strong>여덟 나라를 나란히 비교</strong>합니다.</p></div>
+      </div>
+      <div class="country-mosaic section-container" id="countryMosaic" aria-label="8개국 미리 보기"></div>
+    </section>
+
+    <section class="explore-tools" aria-label="탐색 도구">
+      <div class="section-container">
+        <div class="tools-heading"><span class="overline">02 / YOUR ROUTE</span><span id="resultCount" aria-live="polite">32개 장면</span></div>
+        <h2>어디부터 들여다볼까요?</h2>
+        <p>기본 경로는 시간순입니다. 나라를 고르면 같은 나라의 네 시기를 이어서 볼 수 있습니다.</p>
+        <div class="country-filters" role="group" aria-label="국가 필터" id="countryFilters"></div>
+        <nav class="era-nav" aria-label="시대 바로가기" id="eraNav"></nav>
+      </div>
+    </section>
+
+    <div class="atlas" id="atlas" aria-label="17세기 음악사 시간 여행"></div>
+
+    <section class="epilogue" aria-labelledby="epilogueTitle">
+      <div class="section-container">
+        <p class="overline">AFTER THE CENTURY</p><h2 id="epilogueTitle">100년 뒤,<br /><em>무엇이 남았을까요?</em></h2>
+        <p>극장은 음악을 상품으로, 궁정은 의례로, 교회는 공동체의 언어로, 민간은 기억과 전승의 방식으로 음악을 다듬었습니다. 서로 다르게 전개된 역사는 18세기 이후 새로운 소리의 토대가 됩니다.</p>
+        <div class="learning-checks" id="learningChecks"></div>
+        <div class="export-row"><button class="pill-button" id="exportNotes" type="button">내 학습 메모 내보내기 ↓</button><a href="#top" class="back-to-top">맨 위로 ↑</a></div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="section-container"><p>THE SOUND ATLAS <span>© 개인 학습 프로젝트</span></p><p>원본 연표 32장 기반 · 역사 설명, 이미지, 녹음은 서로 다른 자료입니다. <button type="button" class="footer-link" id="openSources">자료 및 이용 조건</button></p></div></footer>
+
+  <aside class="audio-dock" id="audioDock" aria-label="음악 재생기" hidden>
+    <div class="audio-info"><span class="audio-rotor" aria-hidden="true">♫</span><div><strong id="audioTitle">작품명</strong><span id="audioMeta">녹음 정보</span></div></div>
+    <button type="button" id="playPause" class="audio-play" aria-label="일시정지">Ⅱ</button>
+    <div class="audio-progress"><span id="audioCurrent">0:00</span><input type="range" id="audioSeek" min="0" max="100" value="0" aria-label="재생 위치" /><span id="audioDuration">0:00</span></div>
+    <a id="audioSource" href="#" target="_blank" rel="noopener noreferrer" class="audio-source">출처 ↗</a>
+    <button type="button" id="closeAudio" aria-label="재생기 닫기" class="audio-close">×</button>
+    <audio id="audioEl" preload="none"></audio>
+  </aside>
+
+  <dialog id="aboutDialog" class="about-dialog"><div class="dialog-shell"><button type="button" id="closeAbout" class="dialog-close" aria-label="닫기">×</button><p class="overline">ABOUT / METHODOLOGY</p><h2>이 아틀라스를 읽는 방법</h2><p>원본 《17세기 음악사 연표·8개국·32장》을 25년 구간별로 재배열한 학습용 인터페이스입니다. 각 장면은 사건·해설·관련 이미지·선택 음악·스스로 답하는 질문으로 구성됩니다.</p><p><strong>듣기:</strong> 음악은 사용자가 직접 재생해야 합니다. 모든 녹음은 후대 연주이므로 17세기의 실제 음향을 그대로 복원한 것은 아닙니다. 작품이 해당 장면과 정확히 일치하지 않는 경우 ‘시대 이해를 위한 참고’로 표시합니다.</p><p><strong>사료:</strong> 그림과 사진의 제작 연대가 음악 사건의 연도와 다를 수 있습니다. 작품의 역사적 맥락과 이미지 설명을 별도로 표기합니다. 학습 메모는 이 기기의 브라우저에만 저장됩니다.</p><p><strong>권리:</strong> 개별 이미지 및 녹음의 라이선스·저작자를 해당 장면의 출처 링크에서 확인할 수 있습니다. 직접 재배포되지 않은 외부 자료는 원본 제공처로 연결합니다.</p><p class="dialog-footnote">초판 2026 · 지속 보완형 Git 프로젝트</p></div></dialog>
+  <noscript><div class="noscript">이 아틀라스는 인터랙티브 연표를 표시하기 위해 JavaScript가 필요합니다. 브라우저에서 JavaScript를 활성화해 주세요.</div></noscript>
+</body>
+</html>
