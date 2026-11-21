@@ -51,6 +51,8 @@ const studyAnswers = [
 ];
 
 let chapters = [], curation = {}, media = {images:{},audio:{}};
+let enrichment = {sources:{},chapters:{}}, gallery = {};
+let searchQuery = '';
 let currentFilter = 'all';
 let audioFile = null;
 let saveDebounce;
@@ -78,6 +80,36 @@ function buildAudioHtml(ch,cur){
     return `<button class="listen-card" data-audio-file="${esc(key)}" data-chapter="${esc(ch.id)}" type="button" aria-label="${esc(trackNames[key]||key)} 재생"><span class="play-glyph" aria-hidden="true">▶</span><span><strong class="listen-title">${esc(trackNames[key] || key.replace(/\.(ogg|oga|wav|mp3)$/i,''))}</strong><small class="listen-license">${esc(obj.license||'출처 확인')} · ${esc(obj.kind||'현대 연주 녹음')} · 눌러서 듣기</small></span></button>`;
   }).join('');
 }
+function richContext(ch){
+  const item=enrichment.chapters?.[ch.id];
+  if(!item) return '';
+  const sections=[
+    ['01','정치·사회·생활',item.setting],
+    ['02','왜 이 음악이 필요했고 퍼졌을까?',item.why],
+    ['03','무엇이 음악적으로 달라졌을까?',item.musical]
+  ];
+  const sources=(item.sources || []).map(key=>enrichment.sources?.[key]).filter(Boolean);
+  return `<section class="historical-context" aria-label="${esc(ch.country)} ${ch.start}년 역사 심화 설명">
+    <p class="context-kicker">CONTEXT / WHY / SOUND</p>
+    <h3>시대가 음악을 바꾼 이유</h3>
+    <div class="context-sections">${sections.map(([n,name,copy])=>`<section class="context-panel"><small><span>${n}</span> ${esc(name)}</small><p>${esc(copy)}</p></section>`).join('')}</div>
+    <section class="people-context"><h4>시대를 움직인 사람들</h4><ul>${(item.people || []).map(p=>`<li>${esc(p)}</li>`).join('')}</ul></section>
+    ${item.caution?`<aside class="historical-caveat"><strong>사료 해석 주의</strong><p>${esc(item.caution)}</p></aside>`:''}
+    <section class="source-reading"><h4>이 장면의 연구 자료</h4><p>PDF ${ch.page}쪽의 사건 기록을 기본으로 삼고, 아래 자료로 배경을 보완했습니다.</p><div class="source-link-set">${sources.map(src=>`<a href="${esc(src.url)}" target="_blank" rel="noopener noreferrer" title="${esc(src.label)} 원문 열기"><small>${esc(src.type)}</small><strong>${esc(src.label)}</strong><span aria-hidden="true">↗</span></a>`).join('')}</div></section>
+  </section>`;
+}
+function historicalGallery(ch){
+  const items=gallery?.[ch.id] || [];
+  const enriched=enrichment.chapters?.[ch.id];
+  const curated=(items||[]).filter(item=>item.url&&item.source);
+  if(!curated.length) return '';
+  return `<section class="historical-gallery" aria-label="역사 자료 이미지 갤러리">
+    <div class="gallery-label"><div><p class="context-kicker">VISUAL ARCHIVE</p><h3>이미지로 읽는 역사</h3></div><span>추가 사료·인물·악보 · ${curated.length}점</span></div>
+    <div class="gallery-grid">${curated.map((item,i)=>`<figure class="gallery-figure"><a href="${esc(item.source)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(item.caption||item.title)} 사료 원본·저작권 보기"><div class="gallery-image"><img src="${esc(item.url)}" loading="lazy" decoding="async" alt="${esc(item.caption||item.title)}"/><span class="gallery-kind">${esc(item.type||'사료')}</span></div></a><figcaption><strong>${esc(item.caption||item.title)}</strong>${item.note?`<small class="gallery-date-note">${esc(item.note)}</small>`:''}<small class="gallery-credit">${esc(item.license)} · ${esc((item.artist||'자료 소장자/제작자 정보는 원문 확인').slice(0,70))}</small></figcaption></figure>`).join('')}</div>
+    ${enriched?.look?`<p class="look-prompt"><span>관찰 포인트</span>${esc(enriched.look)}</p>`:''}
+    <p class="gallery-license-disclaimer">사료 이미지와 현대 사진·후대의 역사화는 자료마다 제작 시점이 다릅니다. 모든 그림을 17세기의 직접 기록으로 간주하지 마세요. 원본과 사용 조건은 각 이미지를 눌러 확인할 수 있습니다.</p>
+  </section>`;
+}
 function eventText(evt){return evt.text.replace(new RegExp('^'+evt.year+'(?:경|년대|년)?\\s*'),'').trim() || evt.text;}
 function buildChapter(ch){
   const country=countryMap[ch.countryId];const cur=curation[ch.id] || {audioFiles:[]};const img=media.images?.[ch.id];
@@ -89,7 +121,7 @@ function buildChapter(ch){
       <div class="visual-column"><figure style="margin:0">${mediaImage(ch,cur)}<figcaption class="image-caption"><span>${esc(cur.imageCaption||ch.title)}</span>${mediaLink('사료 보기 ↗',img?.source||'')}</figcaption></figure></div>
       <article class="story-column"><div class="story-tag"><span class="country-dot"></span><b>${esc(ch.country)} / ${country.code}</b><span>•</span><span>${ch.start}—${ch.end}</span><span>•</span><span>${String(ch.page).padStart(2,'0')} / 32</span></div>
       <p class="story-year">${ch.start}<small>– ${ch.end}</small></p><h2 class="story-title" id="title-${esc(ch.id)}">${esc(ch.title)}</h2><p class="story-summary">${esc(ch.summary)}</p>
-      <div class="story-divider"></div><div class="listen-heading"><strong>이 장면의 소리</strong><span>EXPLICIT PLAY ONLY</span></div><div class="audio-list">${buildAudioHtml(ch,cur)}</div>
+      ${richContext(ch)}${historicalGallery(ch)}<div class="story-divider"></div><div class="listen-heading"><strong>이 장면의 소리</strong><span>EXPLICIT PLAY ONLY</span></div><div class="audio-list">${buildAudioHtml(ch,cur)}</div>
       <p class="listening-note">${esc(cur.listeningNote||'음원마다 연주 시기와 역사적 맥락을 확인해 보세요.')}</p>
       <div class="question-box"><small>THINK ABOUT IT</small><p>${esc(cur.question||'음악은 이 시대의 사회 변화와 어떤 관계가 있을까요?')}</p></div>
       <button class="notes-toggle" type="button" data-notes-toggle="${esc(ch.id)}" aria-expanded="false"><span>✎ 나의 학습 메모</span><span>열기 +</span></button><div class="notes-panel" data-notes-panel="${esc(ch.id)}" hidden><label for="note-${esc(ch.id)}">이 장면에서 기억할 것</label><textarea id="note-${esc(ch.id)}" placeholder="느낀 점, 비교할 내용, 궁금한 점을 적어보세요."></textarea><small>메모는 이 브라우저에만 저장됩니다.</small><button type="button" data-notes-save="${esc(ch.id)}">메모 저장</button></div>
@@ -138,7 +170,15 @@ function attachScrollObserver(){
 function applyFilter(id,scroll=true){
   currentFilter=id;
   let visible=0;
-  $$('.chapter').forEach(ch=>{const show=id==='all'||ch.dataset.country===id;ch.hidden=!show;if(show)visible++;});
+  const query=searchQuery.toLocaleLowerCase('ko').trim();
+  $$('.chapter').forEach(el=>{
+    const idOk=id==='all'||el.dataset.country===id;
+    const ch=chapters.find(c=>c.id===el.id);
+    const rich=enrichment.chapters?.[el.id];
+    const haystack=[ch?.title,ch?.summary, ...(ch?.events||[]).map(e=>e.text),rich?.setting,rich?.why,rich?.musical,...(rich?.people||[])].filter(Boolean).join(' ').toLocaleLowerCase('ko');
+    const show=idOk && (!query || haystack.includes(query));
+    el.hidden=!show;if(show)visible++;
+  });
   $$('[data-filter]').forEach(ch=>{const active=ch.dataset.filter===id;ch.setAttribute('aria-pressed',String(active));});
   $('#resultCount').textContent=`${visible}개 장면 · 완료 ${Object.entries(study.read).filter(([ch,done])=>done && (id==='all' || ch.startsWith(id+'-'))).length}개`;
   if(scroll)$('#atlas').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});
@@ -190,6 +230,8 @@ function bindEvents(){
   $('#playPause').addEventListener('click',()=>{if(audio.paused)audio.play().catch(showPlayError);else audio.pause();});
   $('#audioSeek').addEventListener('input',e=>{if(Number.isFinite(audio.duration))audio.currentTime=audio.duration*Number(e.target.value)/100;});
   $('#closeAudio').addEventListener('click',()=>{audio.pause();audio.removeAttribute('src');audio.load();audioFile=null;$('#audioDock').hidden=true;updatePlayerUi();});
+  $('#atlasSearch').addEventListener('input',e=>{searchQuery=e.target.value||'';applyFilter(currentFilter,false);});
+  $('#atlasSearchClear').addEventListener('click',()=>{searchQuery='';$('#atlasSearch').value='';applyFilter(currentFilter,false);$('#atlasSearch').focus();});
   $('#exportNotes').addEventListener('click',exportNotes);
   $('#openAbout').addEventListener('click',()=>$('#aboutDialog').showModal());
   $('#openSources').addEventListener('click',()=>$('#aboutDialog').showModal());
@@ -202,11 +244,12 @@ async function init(){
     const embedded=window.__SOUND_ATLAS_DATA__;
     if(embedded && Array.isArray(embedded.chapters)){
       [chapters,curation,media]=[embedded.chapters,embedded.curation,embedded.media];
+      enrichment=embedded.enrichment||enrichment;gallery=embedded.gallery||gallery;
     }else{
-      const urls=['./src/data/chapters.json','./src/data/curation.json','./src/data/media.json'];
+      const urls=['./src/data/chapters.json','./src/data/curation.json','./src/data/media.json','./src/data/enriched.json','./src/data/gallery.json'];
       const responses=await Promise.all(urls.map(u=>fetch(u,{cache:'no-cache'})));
       for(const [i,res] of responses.entries())if(!res.ok)throw new Error(`${urls[i]}: HTTP ${res.status}`);
-      [chapters,curation,media]=await Promise.all(responses.map(r=>r.json()));
+      [chapters,curation,media,enrichment,gallery]=await Promise.all(responses.map(r=>r.json()));
     }
     if(!Array.isArray(chapters)||chapters.length!==32)throw new Error('본문 32개 장면을 불러오지 못했습니다.');
     renderControls();renderAtlas();bindEvents();syncProgress();
