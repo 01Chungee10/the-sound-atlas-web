@@ -5,20 +5,24 @@
       "caption": "《오르페오》 초기 인쇄 표지",
       "type": "초판·표지",
       "note": "1609년 출판물",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Frontispiece_of_L%27Orfeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/images/italy-1600.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Frontispiece_of_L%27Orfeo.jpg",
       "license": "Public domain",
-      "artist": ""
+      "artist": "Claudio Monteverdi (1567–1643)",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Frontispiece_of_L%27Orfeo.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Orfeo libretto instruments characters.jpg",
       "caption": "《오르페오》의 등장인물과 악기 목록",
       "type": "초판·악기",
-      "note": "1609년 오페라 대본",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Orfeo_libretto_instruments_characters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "1607년 초연 뒤 1609년 베네치아에서 인쇄한 악보의 첫머리",
+      "url": "./assets/gallery/orfeo-libretto-instruments-characters-f785103.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Orfeo_libretto_instruments_characters.jpg",
       "license": "Public domain",
-      "artist": ""
+      "artist": "Claudio Monteverdi (1567–1643)",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Orfeo_libretto_instruments_characters.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "italy-1625": [
@@ -27,20 +31,24 @@
       "caption": "베네치아 산카시아노 극장의 후대 도상",
       "type": "극장·공간",
       "note": "1763년 제작된 후대 자료",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Teatro_San_Cassiano_%281763%29.jpg/960px-Teatro_San_Cassiano_%281763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/teatro-san-cassiano-1763-b07e67c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Teatro_San_Cassiano_(1763).jpg",
       "license": "CC BY-SA 4.0",
-      "artist": ""
+      "artist": "Venice State Archives",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Teatro_San_Cassiano_%281763%29.jpg/960px-Teatro_San_Cassiano_%281763%29.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     {
       "title": "Francsco Cavalli - Giasone - title page from the libretto - Venice 1649.png",
       "caption": "카발리 《자소네》 대본의 표제면",
       "type": "대본·출판",
       "note": "1649년 베네치아",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Francsco_Cavalli_-_Giasone_-_title_page_from_the_libretto_-_Venice_1649.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/francsco-cavalli---giasone---title-pag-7bbbe6c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Francsco_Cavalli_-_Giasone_-_title_page_from_the_libretto_-_Venice_1649.png",
       "license": "Public domain",
-      "artist": ""
+      "artist": "Giacinto Andrea Cicognini",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Francsco_Cavalli_-_Giasone_-_title_page_from_the_libretto_-_Venice_1649.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "italy-1650": [
@@ -49,20 +57,24 @@
       "caption": "크레모나 아마티 악기 전통의 사례",
       "type": "역사 악기",
       "note": "아마티 가문의 전통·개별 제작연대는 원본 확인",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Andrea_Amati_violin_-_Met_Museum_NY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/andrea-amati-violin---met-museum-ny-e688d7d.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Andrea_Amati_violin_-_Met_Museum_NY.jpg",
       "license": "CC BY-SA 3.0",
-      "artist": ""
+      "artist": "Jaime Ardiles-Arce",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Andrea_Amati_violin_-_Met_Museum_NY.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     },
     {
       "title": "Antonio stradivari.jpg",
-      "caption": "안토니오 스트라디바리의 인물 이미지",
+      "caption": "악기를 살펴보는 스트라디바리",
       "type": "인물",
-      "note": "제작 시대보다 늦은 이미지일 수 있음",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Antonio_stradivari.jpg/960px-Antonio_stradivari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "1860~1870년경 판화가 상상한 제작자의 작업 모습",
+      "url": "./assets/gallery/antonio-stradivari-548cb08.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Antonio_stradivari.jpg",
       "license": "Public domain",
-      "artist": "Viktor Bobrov"
+      "artist": "Viktor Bobrov",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Antonio_stradivari.jpg/960px-Antonio_stradivari.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "italy-1675": [
@@ -71,20 +83,24 @@
       "caption": "나폴리 오페라의 작곡가 A. 스카를라티",
       "type": "인물",
       "note": "후대 전승된 초상",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Alessandro_Scarlatti_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/alessandro-scarlatti-2-5cd08b7.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Scarlatti_2.png",
       "license": "CC0",
-      "artist": ""
+      "artist": "Anonymous",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Alessandro_Scarlatti_2.png",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
     {
       "title": "Portrait of Arcangelo Corelli P5250.jpg",
       "caption": "코렐리의 유통된 초상 이미지",
       "type": "인물",
       "note": "초상 제작 연대는 소장처 확인",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Arcangelo_Corelli_P5250.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/portrait-of-arcangelo-corelli-p5250-d57310d.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Arcangelo_Corelli_P5250.jpg",
       "license": "Public domain",
-      "artist": "Hugh Howard"
+      "artist": "Hugh Howard",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Arcangelo_Corelli_P5250.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "france-1600": [
@@ -93,20 +109,24 @@
       "caption": "프랑스 궁정 음악극의 무대·관객 구성",
       "type": "무대·공간",
       "note": "1674년 장면: 1600~1625와 직접 동시대 자료 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Repr%C3%A9sentation_d%27Alceste_de_Lully-Quinault%2C_Versailles%2C_f%C3%AAte_de_1674%2C_Le_Pautre_-_Gallica.jpg/1920px-Repr%C3%A9sentation_d%27Alceste_de_Lully-Quinault%2C_Versailles%2C_f%C3%AAte_de_1674%2C_Le_Pautre_-_Gallica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/repr-sentation-d-alceste-de-lully-quin-8147607.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Repr%C3%A9sentation_d%27Alceste_de_Lully-Quinault,_Versailles,_f%C3%AAte_de_1674,_Le_Pautre_-_Gallica.jpg",
       "license": "Public domain",
-      "artist": "Jean Le Pautre"
+      "artist": "Jean Le Pautre",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Repr%C3%A9sentation_d%27Alceste_de_Lully-Quinault%2C_Versailles%2C_f%C3%AAte_de_1674%2C_Le_Pautre_-_Gallica.jpg/1920px-Repr%C3%A9sentation_d%27Alceste_de_Lully-Quinault%2C_Versailles%2C_f%C3%AAte_de_1674%2C_Le_Pautre_-_Gallica.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Israël Silvestre - Vue et perspective du Château de Versailles, de dedans l'anti-cour - 1950.177 - Cleveland Museum of Art.jpg",
       "caption": "프랑스 궁정 공간에 관한 후대 판화",
       "type": "궁정·공간",
       "note": "17세기 후반 궁정 비교 자료",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Isra%C3%ABl_Silvestre_-_Vue_et_perspective_du_Ch%C3%A2teau_de_Versailles%2C_de_dedans_l%27anti-cour_-_1950.177_-_Cleveland_Museum_of_Art.jpg/1920px-Isra%C3%ABl_Silvestre_-_Vue_et_perspective_du_Ch%C3%A2teau_de_Versailles%2C_de_dedans_l%27anti-cour_-_1950.177_-_Cleveland_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/isra-l-silvestre---vue-et-perspective--81ddd3b.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Isra%C3%ABl_Silvestre_-_Vue_et_perspective_du_Ch%C3%A2teau_de_Versailles,_de_dedans_l%27anti-cour_-_1950.177_-_Cleveland_Museum_of_Art.jpg",
       "license": "CC0",
-      "artist": "\nIsraël Silvestre"
+      "artist": "Israël Silvestre",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Isra%C3%ABl_Silvestre_-_Vue_et_perspective_du_Ch%C3%A2teau_de_Versailles%2C_de_dedans_l%27anti-cour_-_1950.177_-_Cleveland_Museum_of_Art.jpg/1920px-Isra%C3%ABl_Silvestre_-_Vue_et_perspective_du_Ch%C3%A2teau_de_Versailles%2C_de_dedans_l%27anti-cour_-_1950.177_-_Cleveland_Museum_of_Art.jpg",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     }
   ],
   "france-1625": [
@@ -115,20 +135,24 @@
       "caption": "메르센 《보편 화성》 표제면",
       "type": "초판·음악이론",
       "note": "1636년",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Marin_Mersenne_-_Harmonie_universelle_1636_%28page_de_titre%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/marin-mersenne---harmonie-universelle--f6db356.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Marin_Mersenne_-_Harmonie_universelle_1636_(page_de_titre).png",
       "license": "Public domain",
-      "artist": ""
+      "artist": "Marin Mersenne, publié à Paris en 1636",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Marin_Mersenne_-_Harmonie_universelle_1636_%28page_de_titre%29.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Mersenne harmonie universelle 1636 trombone.png",
       "caption": "메르센의 관악기 도해",
       "type": "악기·설계",
       "note": "1636년 악기 도감",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mersenne_harmonie_universelle_1636_trombone.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/mersenne-harmonie-universelle-1636-tro-fcf13d1.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Mersenne_harmonie_universelle_1636_trombone.png",
       "license": "Public domain",
-      "artist": ""
+      "artist": "",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mersenne_harmonie_universelle_1636_trombone.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "france-1650": [
@@ -137,20 +161,24 @@
       "caption": "루이 14세가 출연한 《밤의 발레》 의상 도면",
       "type": "무용·의상",
       "note": "1653년 공연 의상 기록",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Costumes_du_Ballet_intitul%C3%A9_-_%22La_Nuit%2C%22_repr%C3%A9sent%C3%A9_%C3%A0_la_Cour_en_1653%2C_dans_lequel_Louis_XIV_figura_habill%C3%A9_en_soleil_-_dessin_-_btv1b52502200s_%282_of_5%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/costumes-du-ballet-intitul---la-nuit-r-837700f.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Costumes_du_Ballet_intitul%C3%A9_-_%22La_Nuit,%22_repr%C3%A9sent%C3%A9_%C3%A0_la_Cour_en_1653,_dans_lequel_Louis_XIV_figura_habill%C3%A9_en_soleil_-_dessin_-_btv1b52502200s_(2_of_5).jpg",
       "license": "Public domain",
-      "artist": ""
+      "artist": "",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Costumes_du_Ballet_intitul%C3%A9_-_%22La_Nuit%2C%22_repr%C3%A9sent%C3%A9_%C3%A0_la_Cour_en_1653%2C_dans_lequel_Louis_XIV_figura_habill%C3%A9_en_soleil_-_dessin_-_btv1b52502200s_%282_of_5%29.jpg/960px-thumbnail.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Louis XIV en soleil (ballet de la nuit).jpeg",
       "caption": "태양왕의 무용 복장",
       "type": "궁정·인물",
       "note": "1653년 공연의 도상",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Louis_XIV_en_soleil_%28ballet_de_la_nuit%29.jpeg/960px-Louis_XIV_en_soleil_%28ballet_de_la_nuit%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/louis-xiv-en-soleil-ballet-de-la-nuit-6482119.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Louis_XIV_en_soleil_(ballet_de_la_nuit).jpeg",
       "license": "Public domain",
-      "artist": ""
+      "artist": "",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Louis_XIV_en_soleil_%28ballet_de_la_nuit%29.jpeg/960px-Louis_XIV_en_soleil_%28ballet_de_la_nuit%29.jpeg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "france-1675": [
@@ -159,20 +187,24 @@
       "caption": "륄리 《아르미드》 필사 파르티투어",
       "type": "악보·작품",
       "note": "1686년 작품의 후대 필사본",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Armide._Tragedie._-_Repr%C3%A9sent%C3%A9e_par_l%27Academie_Royalle_de_Musique_-_l%27an_1686_-_Les_paroles_sont_de_Mr._Quinault%2C_et_la_Musique_de_Mr._Lully._-_Copi%C3%A9_et_mis_en_ordre_en_Partition_par_Mr._Philidor..._-_btv1b10022263j_%28026_of_269%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/armide-tragedie---repr-sent-e-par-l-ac-9408f5c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Armide._Tragedie._-_Repr%C3%A9sent%C3%A9e_par_l%27Academie_Royalle_de_Musique_-_l%27an_1686_-_Les_paroles_sont_de_Mr._Quinault,_et_la_Musique_de_Mr._Lully._-_Copi%C3%A9_et_mis_en_ordre_en_Partition_par_Mr._Philidor..._-_btv1b10022263j_(026_of_269).jpg",
       "license": "Public domain",
-      "artist": ""
+      "artist": "Lully, Jean-Baptiste (1632-1687). Compositeur",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Armide._Tragedie._-_Repr%C3%A9sent%C3%A9e_par_l%27Academie_Royalle_de_Musique_-_l%27an_1686_-_Les_paroles_sont_de_Mr._Quinault%2C_et_la_Musique_de_Mr._Lully._-_Copi%C3%A9_et_mis_en_ordre_en_Partition_par_Mr._Philidor..._-_btv1b10022263j_%28026_of_269%29.jpg/960px-thumbnail.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Siamese envoys at Versailles.jpg",
-      "caption": "베르사유의 외교 접견 장면",
+      "caption": "루이 14세를 알현하는 시암 사절단",
       "type": "외교·궁정",
-      "note": "1686년 태국 사절의 외교 행사",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Siamese_envoys_at_Versailles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "1686년 베르사유의 접견을 1867년에 그린 역사화",
+      "url": "./assets/gallery/siamese-envoys-at-versailles-f2336d3.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Siamese_envoys_at_Versailles.jpg",
       "license": "Public domain",
-      "artist": "\nJacques-Edmond Leman (1829 - 1889)"
+      "artist": "Jacques-Edmond Leman (1829 - 1889)",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Siamese_envoys_at_Versailles.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "england-1600": [
@@ -181,20 +213,24 @@
       "caption": "올랜도 기번스의 인물 도상",
       "type": "인물",
       "note": "궁정 예배당과 다성음악의 작곡가",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Orlando_Gibbons.jpg/960px-Orlando_Gibbons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/orlando-gibbons-f96d427.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Orlando_Gibbons.jpg",
       "license": "Public domain",
-      "artist": "\nUnknown authorUnknown author"
+      "artist": "Unknown authorUnknown author",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Orlando_Gibbons.jpg/960px-Orlando_Gibbons.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Robert Cecil, 1st Earl of Salisbury.gif",
       "caption": "엘리자베스·제임스 시대의 정치인 초상",
       "type": "시대·정치",
       "note": "초기 스튜어트 왕조의 후원·정치 배경",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Robert_Cecil%2C_1st_Earl_of_Salisbury.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/robert-cecil-1st-earl-of-salisbury-87d9409.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Robert_Cecil,_1st_Earl_of_Salisbury.gif",
       "license": "Public domain",
-      "artist": "John De Critz the Elder (died 1647)"
+      "artist": "John De Critz the Elder (died 1647)",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Robert_Cecil%2C_1st_Earl_of_Salisbury.gif",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "england-1625": [
@@ -203,20 +239,24 @@
       "caption": "찰스 1세의 승마 초상",
       "type": "왕권·인물",
       "note": "17세기 왕권 표상",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Anthonis_van_Dyck_-_Equestrian_Portrait_of_Charles_I_-_National_Gallery%2C_London.jpg/1920px-Anthonis_van_Dyck_-_Equestrian_Portrait_of_Charles_I_-_National_Gallery%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/anthonis-van-dyck---equestrian-portrai-cba4453.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Anthonis_van_Dyck_-_Equestrian_Portrait_of_Charles_I_-_National_Gallery,_London.jpg",
       "license": "Public domain",
-      "artist": "Anthony van Dyck"
+      "artist": "Anthony van Dyck",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Anthonis_van_Dyck_-_Equestrian_Portrait_of_Charles_I_-_National_Gallery%2C_London.jpg/1920px-Anthonis_van_Dyck_-_Equestrian_Portrait_of_Charles_I_-_National_Gallery%2C_London.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Anthony van Dyck - Charles I (1600-49) with M. de St Antoine - Google Art Project.jpg",
       "caption": "찰스 1세와 궁정 인물의 초상",
       "type": "왕권·의례",
       "note": "17세기 궁정 그림",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg/1920px-Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/anthony-van-dyck---charles-i-1600-49-w-90022f2.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Charles_I_(1600-49)_with_M._de_St_Antoine_-_Google_Art_Project.jpg",
       "license": "Public domain",
-      "artist": "Anthony van Dyck"
+      "artist": "Anthony van Dyck",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg/1920px-Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "england-1650": [
@@ -225,20 +265,24 @@
       "caption": "플레이퍼드 춤곡집 후대 판본",
       "type": "악보·출판",
       "note": "1675년 판본: 1651년 초판 아님",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Dancing_Master_by_John_Playford_from_1675.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/the-dancing-master-by-john-playford-fr-eb7264b.webp",
       "source": "https://commons.wikimedia.org/wiki/File:The_Dancing_Master_by_John_Playford_from_1675.jpg",
       "license": "Public domain",
-      "artist": "William Playford in 1600s"
+      "artist": "William Playford in 1600s",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Dancing_Master_by_John_Playford_from_1675.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "The English Dancing Master-John Playford-1651 (page 3 crop to hr printer's ornament).jpg",
       "caption": "1651년 《English Dancing Master》 판면",
       "type": "초판·악보",
       "note": "1651년 인쇄본 일부",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_English_Dancing_Master-John_Playford-1651_%28page_3_crop_to_hr_printer%27s_ornament%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/the-english-dancing-master-john-playfo-adcd790.webp",
       "source": "https://commons.wikimedia.org/wiki/File:The_English_Dancing_Master-John_Playford-1651_(page_3_crop_to_hr_printer%27s_ornament).jpg",
       "license": "Public domain",
-      "artist": "Written by John Playford of \"his Shop in the Inner Temple neere the Church doore\".\n\nPublished in 1651 by Thomas Harper; PDF facsimilie"
+      "artist": "Written by John Playford of \"his Shop in the Inner Temple neere the Church doore\". Published in 1651 by Thomas Harper; PDF facsimilie",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_English_Dancing_Master-John_Playford-1651_%28page_3_crop_to_hr_printer%27s_ornament%29.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "england-1675": [
@@ -247,42 +291,50 @@
       "caption": "퍼셀의 초상 자료",
       "type": "인물",
       "note": "초상 제작연대는 원본 확인",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Henry_Purcell.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/henry-purcell-415518b.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Henry_Purcell.png",
       "license": "CC0",
-      "artist": "John Closterman"
+      "artist": "John Closterman",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Henry_Purcell.png",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
     {
       "title": "Portrait of Henry Purcell with signature.jpg",
       "caption": "퍼셀 초상과 서명 자료",
       "type": "인물·필적",
       "note": "표제·진위는 소장처 확인",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_Henry_Purcell_with_signature.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/portrait-of-henry-purcell-with-signatu-4eed1b4.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Henry_Purcell_with_signature.jpg",
       "license": "Public domain",
-      "artist": "Unidentified engraver"
+      "artist": "Unidentified engraver",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_Henry_Purcell_with_signature.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "germany-1600": [
     {
       "title": "Clavicytherium Praetorius.jpg",
-      "caption": "프레토리우스가 소개한 건반악기",
+      "caption": "프레토리우스가 소개한 수직형 하프시코드",
       "type": "악기·도해",
-      "note": "1619년대의 악기론 관련 도해",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Clavicytherium_Praetorius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "현을 세로 방향으로 배치한 클라비치테리움의 도해",
+      "url": "./assets/gallery/clavicytherium-praetorius-ce4acc6.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Clavicytherium_Praetorius.jpg",
       "license": "Public domain",
-      "artist": "Michael Praetorius"
+      "artist": "Michael Praetorius",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Clavicytherium_Praetorius.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Rorate cœli desuper, from Praetorius' Syntagma Musicum.png",
       "caption": "프레토리우스 악보 기보 사례",
       "type": "악보·기보",
       "note": "17세기 이론서 관련 자료",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rorate_c%C5%93li_desuper%2C_from_Praetorius%27_Syntagma_Musicum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/rorate-c-li-desuper-from-praetorius-sy-dcb119c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Rorate_c%C5%93li_desuper,_from_Praetorius%27_Syntagma_Musicum.png",
       "license": "Public domain",
-      "artist": "PDF scanned by Konrad Stein & Ralph Theo Misch."
+      "artist": "PDF scanned by Konrad Stein & Ralph Theo Misch.",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rorate_c%C5%93li_desuper%2C_from_Praetorius%27_Syntagma_Musicum.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "germany-1625": [
@@ -291,20 +343,24 @@
       "caption": "30년 전쟁 중 마그데부르크의 참화",
       "type": "전쟁·판화",
       "note": "1631년 사건의 도상",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Magdeburg_1631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/magdeburg-1631-7292b2c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Magdeburg_1631.jpg",
       "license": "Public domain",
-      "artist": "Daniel Manasser"
+      "artist": "Daniel Manasser",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Magdeburg_1631.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Siege of Magdeburg 1631.jpg",
       "caption": "1631년 마그데부르크 포위·함락",
       "type": "전쟁·공간",
       "note": "당시 사건에 관한 도상",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Siege_of_Magdeburg_1631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/siege-of-magdeburg-1631-a263efa.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Siege_of_Magdeburg_1631.jpg",
       "license": "Public domain",
-      "artist": "Ges"
+      "artist": "Ges",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Siege_of_Magdeburg_1631.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "germany-1650": [
@@ -313,64 +369,76 @@
       "caption": "함부르크 성 야코비 교회의 슈니트거 오르간",
       "type": "악기·공간",
       "note": "현대 촬영 사진: 복원·개축 이력 확인",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/St._Jakobi_Hamburg_Arp-Schnitger-Orgel.jpg/960px-St._Jakobi_Hamburg_Arp-Schnitger-Orgel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/st-jakobi-hamburg-arp-schnitger-orgel-5a66092.webp",
       "source": "https://commons.wikimedia.org/wiki/File:St._Jakobi_Hamburg_Arp-Schnitger-Orgel.jpg",
       "license": "CC BY-SA 3.0",
-      "artist": "An-d"
+      "artist": "An-d",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/St._Jakobi_Hamburg_Arp-Schnitger-Orgel.jpg/960px-St._Jakobi_Hamburg_Arp-Schnitger-Orgel.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     },
     {
       "title": "Arp Schnitger organ St. Jacobi Hamburg.jpg",
       "caption": "슈니트거 오르간의 오르간 전면",
       "type": "악기·제작",
       "note": "교회 악기 전통의 현대 사진",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Arp_Schnitger_organ_St._Jacobi_Hamburg.jpg/960px-Arp_Schnitger_organ_St._Jacobi_Hamburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/arp-schnitger-organ-st-jacobi-hamburg-f795a79.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Arp_Schnitger_organ_St._Jacobi_Hamburg.jpg",
       "license": "CC BY-SA 3.0",
-      "artist": "Kliojünger"
+      "artist": "Kliojünger",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Arp_Schnitger_organ_St._Jacobi_Hamburg.jpg/960px-Arp_Schnitger_organ_St._Jacobi_Hamburg.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     }
   ],
   "germany-1675": [
     {
       "title": "Pachelbel-canon-colors.svg",
-      "caption": "파헬벨 캐논 성부·베이스 구조 교육도",
+      "caption": "파헬벨 캐논의 선율을 색으로 구분한 악보",
       "type": "교육용 악보",
-      "note": "현대 제작 도해: 17세기 원본 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pachelbel-canon-colors.svg/960px-Pachelbel-canon-colors.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "2022년 학습용으로 그린 악보. 같은 선율이 다른 성부에 들어오는 위치를 비교해 보세요.",
+      "url": "./assets/gallery/pachelbel-canon-colors-a80c78a.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Pachelbel-canon-colors.svg",
       "license": "CC0",
-      "artist": "Original:  Jashiin~commonswiki Vector:  Mugenpman"
+      "artist": "Original: Jashiin~commonswiki Vector: Mugenpman",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pachelbel-canon-colors.svg/960px-Pachelbel-canon-colors.svg.png",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
     {
       "title": "Pachelbel Canon bass line (quarter notes).svg",
       "caption": "파헬벨 캐논의 반복 저음 도식",
       "type": "교육용 악보",
       "note": "현대 제작 도해: 원전 필사본 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pachelbel_Canon_bass_line_%28quarter_notes%29.svg/960px-Pachelbel_Canon_bass_line_%28quarter_notes%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/images/germany-1675.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Pachelbel_Canon_bass_line_(quarter_notes).svg",
       "license": "Public domain",
-      "artist": "Benjamin D. Esham (bdesham)"
+      "artist": "Benjamin D. Esham (bdesham)",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Pachelbel_Canon_bass_line_%28quarter_notes%29.svg/960px-Pachelbel_Canon_bass_line_%28quarter_notes%29.svg.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "austria-1600": [
     {
       "title": "Salzburg Neue Residenz Bischofssaal 03.jpg",
-      "caption": "잘츠부르크 대주교의 궁정 공간",
+      "caption": "잘츠부르크 노이에 레지덴츠의 주교 홀",
       "type": "궁정·건축",
-      "note": "현대 촬영 사진",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Salzburg_Neue_Residenz_Bischofssaal_03.jpg/1920px-Salzburg_Neue_Residenz_Bischofssaal_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "2013년 촬영한 궁정 공간",
+      "url": "./assets/gallery/salzburg-neue-residenz-bischofssaal-03-b6ee628.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Salzburg_Neue_Residenz_Bischofssaal_03.jpg",
       "license": "Public domain",
-      "artist": "WolfD59"
+      "artist": "WolfD59",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Salzburg_Neue_Residenz_Bischofssaal_03.jpg/1920px-Salzburg_Neue_Residenz_Bischofssaal_03.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Schloss Hellbrunn - Indianischer Rabe.jpg",
-      "caption": "헬브룬 궁정의 장식·무대 취향",
+      "caption": "헬브룬 궁의 새 그림",
       "type": "궁정·조형",
-      "note": "실물의 현대 촬영",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Hellbrunn_-_Indianischer_Rabe.jpg/1920px-Schloss_Hellbrunn_-_Indianischer_Rabe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "1669년의 궁정 장식화. 이 장면보다 뒤 시기의 시각문화 자료",
+      "url": "./assets/gallery/schloss-hellbrunn---indianischer-rabe-a56f1e8.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Schloss_Hellbrunn_-_Indianischer_Rabe.jpg",
       "license": "Public domain",
-      "artist": ""
+      "artist": "",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Hellbrunn_-_Indianischer_Rabe.jpg/1920px-Schloss_Hellbrunn_-_Indianischer_Rabe.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "austria-1625": [
@@ -379,20 +447,24 @@
       "caption": "페르디난트 3세의 공식 초상",
       "type": "황제·인물",
       "note": "합스부르크 궁정의 정치적 이미지",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Frans_Luycx_-_Portrait_of_Ferdinand_III%2C_Holy_Roman_Emperor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/frans-luycx---portrait-of-ferdinand-ii-1a57fdf.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Frans_Luycx_-_Portrait_of_Ferdinand_III,_Holy_Roman_Emperor.jpg",
       "license": "Public domain",
-      "artist": "Frans Luycx"
+      "artist": "Frans Luycx",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Frans_Luycx_-_Portrait_of_Ferdinand_III%2C_Holy_Roman_Emperor.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Jan van den Hoecke - Portrait of Emperor Ferdinand III.jpg",
       "caption": "페르디난트 3세의 다른 초상",
       "type": "황제·인물",
       "note": "당시 궁정 회화",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jan_van_den_Hoecke_-_Portrait_of_Emperor_Ferdinand_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/jan-van-den-hoecke---portrait-of-emper-7f51249.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Jan_van_den_Hoecke_-_Portrait_of_Emperor_Ferdinand_III.jpg",
       "license": "Public domain",
-      "artist": "Jan van den Hoecke"
+      "artist": "Jan van den Hoecke",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jan_van_den_Hoecke_-_Portrait_of_Emperor_Ferdinand_III.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "austria-1650": [
@@ -401,64 +473,76 @@
       "caption": "체스티 《도리》의 인스브루크 독일어 줄거리책",
       "type": "대본·공연",
       "note": "1657년 인스브루크",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cesti_-_La_Dori_-_German_abstract%2C_Innsbruck_1657_-_title_page.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/cesti---la-dori---german-abstract-inns-3b196ad.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Cesti_-_La_Dori_-_German_abstract,_Innsbruck_1657_-_title_page.png",
       "license": "Public domain",
-      "artist": "Antonio Cesti / Giovanni Filippo Apolloni"
+      "artist": "Antonio Cesti / Giovanni Filippo Apolloni",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Cesti_-_La_Dori_-_German_abstract%2C_Innsbruck_1657_-_title_page.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Cesti - La Dori - libretto, Ferrara 1663 - title page.png",
       "caption": "체스티 《도리》의 페라라 인쇄 대본",
       "type": "대본·출판",
       "note": "1663년 인쇄본",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cesti_-_La_Dori_-_libretto%2C_Ferrara_1663_-_title_page.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/cesti---la-dori---libretto-ferrara-166-2d5eae2.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Cesti_-_La_Dori_-_libretto,_Ferrara_1663_-_title_page.png",
       "license": "Public domain",
-      "artist": "Antonio Cesti / Giovanni Filippo Apolloni"
+      "artist": "Antonio Cesti / Giovanni Filippo Apolloni",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cesti_-_La_Dori_-_libretto%2C_Ferrara_1663_-_title_page.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "austria-1675": [
     {
       "title": "Biber-C105-ange-gardien-gravure.jpg",
-      "caption": "비버 《묵주 소나타》 관련 조각·판화",
+      "caption": "비버의 무반주 파사칼리아 앞에 놓인 수호천사 그림",
       "type": "악보·도상",
-      "note": "소나타와 결부된 종교적 이미지",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Biber-C105-ange-gardien-gravure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "《묵주 소나타》 필사본의 마지막 곡에 붙은 도상",
+      "url": "./assets/gallery/biber-c105-ange-gardien-gravure-3ea9c2b.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Biber-C105-ange-gardien-gravure.jpg",
       "license": "Public domain",
-      "artist": "Heinrich Biber"
+      "artist": "Heinrich Biber",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Biber-C105-ange-gardien-gravure.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Biber-dedicace-manuscrit.png",
       "caption": "비버의 헌정 필사 원고 일부",
       "type": "필사보·헌정",
       "note": "궁정 음악가의 문헌",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Biber-dedicace-manuscrit.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/biber-dedicace-manuscrit-776dd3a.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Biber-dedicace-manuscrit.png",
       "license": "Public domain",
-      "artist": "Heinrich Biber"
+      "artist": "Heinrich Biber",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Biber-dedicace-manuscrit.png",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "russia-1600": [
     {
       "title": "Skomoroks.jpg",
-      "caption": "정교회 밖에서 활동하던 스코모로히의 도상",
+      "caption": "키이우 성 소피아 대성당 벽화 속 연희자",
       "type": "민속·연희",
-      "note": "도상의 제작 시기는 원본 확인",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Skomoroks.jpg/960px-Skomoroks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "11세기 키이우 루스의 도상. 17세기 모스크바 음악을 이해하기 위한 선례",
+      "url": "./assets/gallery/skomoroks-513d053.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Skomoroks.jpg",
       "license": "Public domain",
-      "artist": "Солнцев Федор Григорьевич, Медведев И."
+      "artist": "Солнцев Федор Григорьевич, Медведев И.",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Skomoroks.jpg/960px-Skomoroks.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Skomorokhs (Vasnetsov, 1904).jpg",
       "caption": "스코모로히를 후대에 재현한 회화",
       "type": "후대 역사화",
       "note": "1904년 그림: 1600년의 직접 기록 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Skomorokhs_%28Vasnetsov%2C_1904%29.jpg/960px-Skomorokhs_%28Vasnetsov%2C_1904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/skomorokhs-vasnetsov-1904-00957a0.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Skomorokhs_(Vasnetsov,_1904).jpg",
       "license": "Public domain",
-      "artist": "Apollinary Vasnetsov"
+      "artist": "Apollinary Vasnetsov",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Skomorokhs_%28Vasnetsov%2C_1904%29.jpg/960px-Skomorokhs_%28Vasnetsov%2C_1904%29.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "russia-1625": [
@@ -467,86 +551,102 @@
       "caption": "스코모로히를 그린 바스네초프의 역사화",
       "type": "후대 역사화",
       "note": "1904년 제작, 연희 재현 이미지",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Skomorokhs_%28Vasnetsov%2C_1904%29.jpg/960px-Skomorokhs_%28Vasnetsov%2C_1904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/skomorokhs-vasnetsov-1904-00957a0.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Skomorokhs_(Vasnetsov,_1904).jpg",
       "license": "Public domain",
-      "artist": "Apollinary Vasnetsov"
+      "artist": "Apollinary Vasnetsov",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Skomorokhs_%28Vasnetsov%2C_1904%29.jpg/960px-Skomorokhs_%28Vasnetsov%2C_1904%29.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Franz Riss Skomorokhs in a village.jpg",
       "caption": "마을 연희자를 후대에 그린 그림",
       "type": "후대 역사화",
       "note": "후대 회화: 실제 1648년 공연의 기록 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Franz_Riss_Skomorokhs_in_a_village.jpg/960px-Franz_Riss_Skomorokhs_in_a_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/franz-riss-skomorokhs-in-a-village-8f9c9a9.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Franz_Riss_Skomorokhs_in_a_village.jpg",
       "license": "Public domain",
-      "artist": "François Nicholas Riss"
+      "artist": "François Nicholas Riss",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Franz_Riss_Skomorokhs_in_a_village.jpg/960px-Franz_Riss_Skomorokhs_in_a_village.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "russia-1650": [
     {
       "title": "Kryuki.jpg",
-      "caption": "즈나멘니 성가의 크류키 표기",
+      "caption": "갈고리 모양 기호로 적은 즈나멘니 성가",
       "type": "성가·기보",
-      "note": "기호는 전통을 보여주지만 표본의 필사연대는 별도 확인",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kryuki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "19세기 악보가 보여 주는 전통 기보의 한 예",
+      "url": "./assets/gallery/kryuki-f8bc356.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Kryuki.jpg",
       "license": "Public domain",
-      "artist": "Unknown authorUnknown author"
+      "artist": "Unknown authorUnknown author",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kryuki.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Skomorokhs (Vasnetsov, 1904).jpg",
       "caption": "교회 성가와 대비되는 세속 연희의 후대 회화",
       "type": "후대 역사화",
       "note": "1904년 제작: 비교용",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Skomorokhs_%28Vasnetsov%2C_1904%29.jpg/960px-Skomorokhs_%28Vasnetsov%2C_1904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/skomorokhs-vasnetsov-1904-00957a0.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Skomorokhs_(Vasnetsov,_1904).jpg",
       "license": "Public domain",
-      "artist": "Apollinary Vasnetsov"
+      "artist": "Apollinary Vasnetsov",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Skomorokhs_%28Vasnetsov%2C_1904%29.jpg/960px-Skomorokhs_%28Vasnetsov%2C_1904%29.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "russia-1675": [
     {
       "title": "Kryuki.jpg",
-      "caption": "전통 성가의 크류키 기호",
+      "caption": "갈고리 모양 기호로 적은 즈나멘니 성가",
       "type": "악보·기보",
-      "note": "딜레츠키의 다성 기보와 비교",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kryuki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "19세기 악보가 보여 주는 전통 기보의 한 예",
+      "url": "./assets/gallery/kryuki-f8bc356.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Kryuki.jpg",
       "license": "Public domain",
-      "artist": "Unknown authorUnknown author"
+      "artist": "Unknown authorUnknown author",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kryuki.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Skomoroks.jpg",
-      "caption": "러시아 민간 연희 전통의 도상",
+      "caption": "키이우 성 소피아 대성당 벽화 속 연희자",
       "type": "민속·연희",
-      "note": "자료 제작연대 별도 확인",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Skomoroks.jpg/960px-Skomoroks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "11세기 키이우 루스의 도상. 17세기 모스크바 음악을 이해하기 위한 선례",
+      "url": "./assets/gallery/skomoroks-513d053.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Skomoroks.jpg",
       "license": "Public domain",
-      "artist": "Солнцев Федор Григорьевич, Медведев И."
+      "artist": "Солнцев Федор Григорьевич, Медведев И.",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Skomoroks.jpg/960px-Skomoroks.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "china-1600": [
     {
       "title": "Peony Pavilion - dream scene.jpg",
-      "caption": "탕현조 《모란정》의 무대 장면",
+      "caption": "《모란정》의 꿈 장면을 그린 목판화",
       "type": "연극·도상",
-      "note": "제작·공연 시점은 원본 확인",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Peony_Pavilion_-_dream_scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "1618년 간행된 축약본에 실린 삽화",
+      "url": "./assets/gallery/peony-pavilion---dream-scene-ac085e4.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Peony_Pavilion_-_dream_scene.jpg",
       "license": "Public domain",
-      "artist": "Unknown according to [2]"
+      "artist": "Unknown according to [2]",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Peony_Pavilion_-_dream_scene.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Mudan Ting Huanhun Ji.jpg",
       "caption": "《모란정》의 대본·문헌 자료",
       "type": "대본·인쇄",
       "note": "명 말 곤곡의 문학",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mudan_Ting_Huanhun_Ji.jpg/960px-Mudan_Ting_Huanhun_Ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/mudan-ting-huanhun-ji-72a2cab.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Mudan_Ting_Huanhun_Ji.jpg",
       "license": "Public domain",
-      "artist": "Unknown authorUnknown author"
+      "artist": "Unknown authorUnknown author",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mudan_Ting_Huanhun_Ji.jpg/960px-Mudan_Ting_Huanhun_Ji.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "china-1625": [
@@ -555,20 +655,24 @@
       "caption": "고금(古琴)의 역사 악기 표본",
       "type": "역사 악기",
       "note": "시기별 제작·수리 연대는 원본 확인",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/ZhongNiShi.jpg/960px-ZhongNiShi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/zhongnishi-60a8db7.webp",
       "source": "https://commons.wikimedia.org/wiki/File:ZhongNiShi.jpg",
       "license": "CC BY-SA 3.0",
-      "artist": "The original uploader was CharlieHuang at English Wikipedia."
+      "artist": "The original uploader was CharlieHuang at English Wikipedia.",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/ZhongNiShi.jpg/960px-ZhongNiShi.jpg",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
       "title": "Boy playing Guqin.jpg",
-      "caption": "고금을 연주하는 인물을 그린 그림",
+      "caption": "고금을 타는 학생",
       "type": "연주·도상",
-      "note": "제작연대가 작품 사건과 다를 수 있음",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Boy_playing_Guqin.jpg/960px-Boy_playing_Guqin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "2022년에 촬영한 연주 사진. 손과 악기의 위치를 관찰해 보세요.",
+      "url": "./assets/gallery/boy-playing-guqin-460171c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Boy_playing_Guqin.jpg",
       "license": "CC BY-SA 4.0",
-      "artist": "Allervous"
+      "artist": "Allervous",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Boy_playing_Guqin.jpg/960px-Boy_playing_Guqin.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ],
   "china-1650": [
@@ -577,42 +681,50 @@
       "caption": "책상 앞에 앉은 강희제의 초상",
       "type": "황제·학문",
       "note": "청 황실과 문인 문화",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emperor_Kangxi_at_his_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/emperor-kangxi-at-his-desk-a5f3c88.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Emperor_Kangxi_at_his_desk.jpg",
       "license": "Public domain",
-      "artist": "\nUnknown authorUnknown author"
+      "artist": "Unknown authorUnknown author",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emperor_Kangxi_at_his_desk.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Guqin en el Museo Nacional de las Culturas 01.jpg",
       "caption": "박물관에 전시된 고금",
       "type": "악기·박물관",
       "note": "현대 촬영 사진",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Guqin_en_el_Museo_Nacional_de_las_Culturas_01.jpg/960px-Guqin_en_el_Museo_Nacional_de_las_Culturas_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/guqin-en-el-museo-nacional-de-las-cult-13e30b3.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Guqin_en_el_Museo_Nacional_de_las_Culturas_01.jpg",
       "license": "CC BY-SA 4.0",
-      "artist": "Luis Alvaz"
+      "artist": "Luis Alvaz",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Guqin_en_el_Museo_Nacional_de_las_Culturas_01.jpg/960px-Guqin_en_el_Museo_Nacional_de_las_Culturas_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ],
   "china-1675": [
     {
       "title": "1962-03 1962年 桃花扇 李香君 郑振瑶扮演.jpg",
-      "caption": "《도화선》의 20세기 무대 재현",
+      "caption": "《도화선》의 이향군 역을 연기한 정전요",
       "type": "현대 공연",
-      "note": "1962년 현대 공연 사진: 1699년 무대 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/1962-03_1962%E5%B9%B4_%E6%A1%83%E8%8A%B1%E6%89%87_%E6%9D%8E%E9%A6%99%E5%90%9B_%E9%83%91%E6%8C%AF%E7%91%B6%E6%89%AE%E6%BC%94.jpg/960px-1962-03_1962%E5%B9%B4_%E6%A1%83%E8%8A%B1%E6%89%87_%E6%9D%8E%E9%A6%99%E5%90%9B_%E9%83%91%E6%8C%AF%E7%91%B6%E6%89%AE%E6%BC%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "note": "1962년에 전해진 후대 공연 사진",
+      "url": "./assets/gallery/1962-03-1962-9fee098.webp",
       "source": "https://commons.wikimedia.org/wiki/File:1962-03_1962%E5%B9%B4_%E6%A1%83%E8%8A%B1%E6%89%87_%E6%9D%8E%E9%A6%99%E5%90%9B_%E9%83%91%E6%8C%AF%E7%91%B6%E6%89%AE%E6%BC%94.jpg",
       "license": "Public domain",
-      "artist": "《人民画报》"
+      "artist": "《人民画报》",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/1962-03_1962%E5%B9%B4_%E6%A1%83%E8%8A%B1%E6%89%87_%E6%9D%8E%E9%A6%99%E5%90%9B_%E9%83%91%E6%8C%AF%E7%91%B6%E6%89%AE%E6%BC%94.jpg/960px-1962-03_1962%E5%B9%B4_%E6%A1%83%E8%8A%B1%E6%89%87_%E6%9D%8E%E9%A6%99%E5%90%9B_%E9%83%91%E6%8C%AF%E7%91%B6%E6%89%AE%E6%BC%94.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "title": "Peach-blossom Spring, Ding Yunpeng.jpg",
       "caption": "도화원 주제의 별도 고전 회화",
       "type": "시대 비교",
       "note": "《도화선》 직접 삽화가 아닌 도화(桃花) 문화의 비교 자료",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Peach-blossom_Spring%2C_Ding_Yunpeng.jpg/960px-Peach-blossom_Spring%2C_Ding_Yunpeng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/peach-blossom-spring-ding-yunpeng-663c06d.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Peach-blossom_Spring,_Ding_Yunpeng.jpg",
       "license": "Public domain",
-      "artist": "Ding Yunpeng"
+      "artist": "Ding Yunpeng",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Peach-blossom_Spring%2C_Ding_Yunpeng.jpg/960px-Peach-blossom_Spring%2C_Ding_Yunpeng.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "korea-1600": [
@@ -621,20 +733,24 @@
       "caption": "거문고와 정악 가야금의 악기 구조",
       "type": "악기·현대 사진",
       "note": "현대 촬영: 1610년 악기의 직접 사진 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Geomungo_i_Jeongak_gayageum.jpg/960px-Geomungo_i_Jeongak_gayageum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/geomungo-i-jeongak-gayageum-2d19875.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Geomungo_i_Jeongak_gayageum.jpg",
       "license": "CC BY-SA 4.0",
-      "artist": "Sguastevi"
+      "artist": "Sguastevi",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Geomungo_i_Jeongak_gayageum.jpg/960px-Geomungo_i_Jeongak_gayageum.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     {
       "title": "Hyewon-Tanhyeon.jpg",
-      "caption": "거문고 풍류를 그린 후대 풍속화",
+      "caption": "신윤복의 〈탄현〉, 거문고 줄을 고르는 모습",
       "type": "후대 풍속화",
-      "note": "18세기 후반 신윤복 그림: 17세기 직접 사료 아님",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hyewon-Tanhyeon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "note": "18세기 후반~19세기 초 화가가 본 조선 후기의 풍류",
+      "url": "./assets/gallery/hyewon-tanhyeon-90f009d.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Hyewon-Tanhyeon.jpg",
       "license": "Public domain",
-      "artist": "혜원 신윤복 (申潤福: 1758-19세기 초반)"
+      "artist": "혜원 신윤복 (申潤福: 1758-19세기 초반)",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hyewon-Tanhyeon.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "korea-1625": [
@@ -643,20 +759,24 @@
       "caption": "병자호란의 역사적 장소, 남한산성",
       "type": "유적·현대 사진",
       "note": "오늘날 남한산성 모습",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Korea-Namhansanseong-01.jpg/960px-Korea-Namhansanseong-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/korea-namhansanseong-01-a25dbe8.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Korea-Namhansanseong-01.jpg",
       "license": "CC BY-SA 3.0",
-      "artist": "Steve46814 (talk)"
+      "artist": "Steve46814 (talk)",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Korea-Namhansanseong-01.jpg/960px-Korea-Namhansanseong-01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     },
     {
       "title": "Geomungo.jpg",
       "caption": "선비 풍류와 관련된 거문고 악기",
       "type": "악기·현대 사진",
       "note": "현대 촬영 악기 사진",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Geomungo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/geomungo-645781c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Geomungo.jpg",
       "license": "CC BY-SA 3.0",
-      "artist": "ko:사용자:김준민"
+      "artist": "ko:사용자:김준민",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Geomungo.jpg",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
     }
   ],
   "korea-1650": [
@@ -665,20 +785,24 @@
       "caption": "거문고의 구조와 현을 확인할 수 있는 현대 사진",
       "type": "악기·현대 사진",
       "note": "당시 악기의 직접 기록은 아님",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Geomungo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "./assets/gallery/geomungo-645781c.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Geomungo.jpg",
       "license": "CC BY-SA 3.0",
-      "artist": "ko:사용자:김준민"
+      "artist": "ko:사용자:김준민",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Geomungo.jpg",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
       "title": "2008-Korea-Seoul-Jongmyo jeryeak-05.jpg",
       "caption": "오늘날 전승되는 종묘제례악 연행",
       "type": "현대 전승",
       "note": "2008년 전승 공연 사진: 17세기 행사 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2008-Korea-Seoul-Jongmyo_jeryeak-05.jpg/960px-2008-Korea-Seoul-Jongmyo_jeryeak-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/2008-korea-seoul-jongmyo-jeryeak-05-1578aea.webp",
       "source": "https://commons.wikimedia.org/wiki/File:2008-Korea-Seoul-Jongmyo_jeryeak-05.jpg",
       "license": "Public domain",
-      "artist": "David McNally, USAG-Yongsan"
+      "artist": "David McNally, USAG-Yongsan",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2008-Korea-Seoul-Jongmyo_jeryeak-05.jpg/960px-2008-Korea-Seoul-Jongmyo_jeryeak-05.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ],
   "korea-1675": [
@@ -687,20 +811,24 @@
       "caption": "거문고와 가야금의 구조 비교",
       "type": "악기·현대 사진",
       "note": "현대 악기 사진",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Geomungo_i_Jeongak_gayageum.jpg/960px-Geomungo_i_Jeongak_gayageum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/geomungo-i-jeongak-gayageum-2d19875.webp",
       "source": "https://commons.wikimedia.org/wiki/File:Geomungo_i_Jeongak_gayageum.jpg",
       "license": "CC BY-SA 4.0",
-      "artist": "Sguastevi"
+      "artist": "Sguastevi",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Geomungo_i_Jeongak_gayageum.jpg/960px-Geomungo_i_Jeongak_gayageum.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     {
       "title": "KOCIS Korea Changdeokgung Moonlight Tour 20130426 16 (8694257593).jpg",
       "caption": "궁궐 공간에서 전승음악을 접하는 현대 장면",
       "type": "현대 전승",
       "note": "2013년 현대 촬영: 1680년 공연 기록 아님",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/KOCIS_Korea_Changdeokgung_Moonlight_Tour_20130426_16_%288694257593%29.jpg/960px-KOCIS_Korea_Changdeokgung_Moonlight_Tour_20130426_16_%288694257593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "./assets/gallery/kocis-korea-changdeokgung-moonlight-to-39d72ec.webp",
       "source": "https://commons.wikimedia.org/wiki/File:KOCIS_Korea_Changdeokgung_Moonlight_Tour_20130426_16_(8694257593).jpg",
       "license": "CC BY-SA 2.0",
-      "artist": "Korea.net / Korean Culture and Information Service (Jeon Han)"
+      "artist": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "originalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/KOCIS_Korea_Changdeokgung_Moonlight_Tour_20130426_16_%288694257593%29.jpg/960px-KOCIS_Korea_Changdeokgung_Moonlight_Tour_20130426_16_%288694257593%29.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
     }
   ]
 }

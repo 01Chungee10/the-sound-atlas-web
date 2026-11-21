@@ -1,0 +1,398 @@
+{
+  "italy-1600": {
+    "context": "1607년 만토바에서 공연한 《오르페오》에는 인물이 말하듯 부르는 독창, 합창, 춤곡, 기악이 함께 나온다. 인물의 사연은 노래가 들려주고, 막이 오르기 전에는 관악기의 토카타가 관객의 귀를 모은다.",
+    "focus": "토카타를 들을 때 목소리는 언제 등장하는가? 이 도입부와 가사를 전하는 독창을 구별해 보자.",
+    "sources": [
+      {
+        "title": "메트로폴리탄 미술관 · 초기 오페라의 무대",
+        "url": "https://www.metmuseum.org/essays/the-opera"
+      }
+    ]
+  },
+  "italy-1625": {
+    "context": "1637년 베네치아 산카시아노 극장에서 표를 산 관객이 본 오페라는 《안드로메다》였다. 시인 베네데토 페라리가 대본을 쓰고 프란체스코 마넬리가 곡을 붙였다. 궁정의 초대를 받아야 했던 관람 방식에 매표라는 선택지가 생겼다.",
+    "focus": "베네치아에서 새로워진 것은 오페라를 볼 수 있는 조건이다. 만토바의 궁정 초연과 관객이 어떻게 달라졌는지 비교해 보자.",
+    "sources": [
+      {
+        "title": "볼로냐대학교 Corago · 1637년 《안드로메다》 공연 배역과 대본",
+        "url": "https://corago.unibo.it/evento/SSC0000004"
+      }
+    ]
+  },
+  "italy-1650": {
+    "context": "1651년 바르바라 스트로치는 베네치아에서 자기 이름으로 《칸타타·아리에타·이중창》을 냈다. 같은 시기 크레모나에서는 아마티 가문의 공방이 서로 다른 크기의 현악기를 만들었다. 인쇄된 노래와 손으로 만든 악기는 음악이 다른 도시로 퍼진 두 가지 경로였다.",
+    "focus": "성악곡집에서는 몇 사람이 노래하는지, 악기 소장 기록에서는 누가 언제 어디서 만들었는지 찾아보자.",
+    "sources": [
+      {
+        "title": "《칸타타·아리에타·이중창》 작품 2 악보",
+        "url": "https://imslp.org/wiki/Cantate%2C_ariette%2C_e_duetti%2C_Op.2_%28Strozzi%2C_Barbara%29"
+      },
+      {
+        "title": "메트로폴리탄 미술관 · 아마티와 스트라디바리의 바이올린",
+        "url": "https://www.metmuseum.org/essays/violin-makers-nicolo-amati-1596-1684-and-antonio-stradivari-1644-1737"
+      }
+    ]
+  },
+  "italy-1675": {
+    "context": "코렐리의 작품 1은 1681년 로마에서 출판되었다. 두 바이올린과 저음이 세 줄기를 이루고, 저음을 연주하는 사람과 화음을 채우는 사람이 나뉠 수도 있다. 트리오라는 이름은 악보의 세 성부를 먼저 가리킨다.",
+    "focus": "높은 두 선율을 하나씩 골라 따라가 보자. 피아노의 탄생은 이 곡의 편성과 별개의 사건으로, 피렌체의 악기 기록에서 확인할 수 있다.",
+    "sources": [
+      {
+        "title": "코렐리 · 1681년 로마에서 출판한 작품 1 악보",
+        "url": "https://imslp.org/wiki/12_Trio_Sonatas%2C_Op.1_%28Corelli%2C_Arcangelo%29"
+      },
+      {
+        "title": "메트로폴리탄 미술관 · 크리스토포리의 1720년 피아노",
+        "url": "https://www.metmuseum.org/art/collection/search/501788"
+      }
+    ]
+  },
+  "france-1600": {
+    "context": "에르 드 쿠르는 하나의 노래를 서로 다른 편성으로 즐길 수 있었던 프랑스 궁정가곡이다. 목소리 하나와 류트의 짝뿐 아니라 네댓 성부가 함께 부르는 판본도 전한다. 시에 붙인 가락이 어떤 모임에서 어떻게 울렸을지 생각해 볼 만하다.",
+    "focus": "노래의 성부 수와 반주 악기의 수를 따로 세어 보자. 여러 사람이 함께 부른다고 언제나 서로 다른 선율이 생기지는 않는다.",
+    "sources": [
+      {
+        "title": "베르사유 바로크음악센터 · 에르 드 쿠르의 여러 편성",
+        "url": "https://boutique.cmbv.fr/fr/node/20900"
+      }
+    ]
+  },
+  "france-1625": {
+    "context": "‘왕의 24 바이올린’은 높은 바이올린만 24대 모은 악단이 아니었다. 음역이 다른 현악기들이 다섯 성부를 맡았다. 이미 1614년에 인원이 24명이었고 1626년에 독립된 궁정 악단으로 공인되었다.",
+    "focus": "‘24’는 연주자 수, ‘5’는 성부 수다. 악보에서 하나의 성부를 여러 사람이 함께 켜는 모습을 떠올려 보자.",
+    "sources": [
+      {
+        "title": "베르사유 바로크음악센터 · 왕의 24 바이올린",
+        "url": "https://cmbv.fr/fr/node/3241"
+      }
+    ]
+  },
+  "france-1650": {
+    "context": "몰리에르의 코메디 발레는 희극의 대사 사이에 춤과 음악이 들어간다. 1661년 《성가신 사람들》에 이어 륄리와 몰리에르는 《서민 귀족》을 만들었다. 같은 륄리가 오페라 상연 특권을 얻은 때는 1672년이다.",
+    "focus": "무대의 웃음을 만드는 대사, 춤을 이끄는 박, 인물이 노래하는 장면을 차례로 구별해 보자.",
+    "sources": [
+      {
+        "title": "프랑스 국립도서관 · 1661년 코메디 발레 《성가신 사람들》",
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb18004319g"
+      },
+      {
+        "title": "베르사유 궁전 · 륄리의 궁정 경력과 공연 특권",
+        "url": "https://en.chateauversailles.fr/discover/history/great-characters/lully"
+      }
+    ]
+  },
+  "france-1675": {
+    "context": "베르사유의 음악가는 모두 한 악단에 속하지 않았다. 예배당은 미사를, 왕실 실내악단은 왕의 생활과 실내 공연을, 대마구간 소속 연주자들은 행렬과 야외 의식 등을 맡았다. 누가 어디에서 들을 음악인지에 따라 악기의 쓰임이 달라졌다.",
+    "focus": "궁정음악 한 곡을 고른 뒤 예배당·실내·야외 중 어울릴 공간을 생각해 보자. 실제 용도는 작품 설명에서 확인할 수 있다.",
+    "sources": [
+      {
+        "title": "베르사유 시 · 궁정음악을 맡았던 세 기관",
+        "url": "https://www.versailles.fr/492/decouvrir-versailles/histoire-de-versailles/histoire-des-arts/musique.htm"
+      }
+    ]
+  },
+  "england-1600": {
+    "context": "다울랜드의 1604년 《라크리메》 초판 표제에는 일곱 파반뿐 아니라 갈리아르드와 알망드도 적혀 있다. 류트 가곡으로도 알려진 선율이 비올을 포함한 합주의 재료가 되면서, 노랫말을 몰라도 선율을 알아볼 수 있었다.",
+    "focus": "이 곡집에서 고른 한 악장이 파반인지 알망드인지 먼저 살펴보자. 곡집 제목만으로 모든 악장을 ‘눈물의 파반’이라고 부를 수는 없다.",
+    "sources": [
+      {
+        "title": "영국 국립도서관후원회 · 다울랜드 초판본 네 권",
+        "url": "https://grants.fnl.org.uk/four-rare-printed-music-works-john-dowland"
+      }
+    ]
+  },
+  "england-1625": {
+    "context": "1634년 러들로 성에서 열린 밀턴의 가면극 《코머스》에서는 브리지워터 백작의 자녀들이 배역을 맡았고 음악가 헨리 로스도 무대에 섰다. 1642년 의회가 중지를 명한 대상은 공개 연극 공연이었다. 성 안 가족의 무대와 런던의 상업 극장은 관객과 후원자가 달랐다.",
+    "focus": "공연 중지 명령 원문에서 적용 대상을 찾아보자. 이 법령 하나로 당시 집 안에서 연주한 곡의 수까지 알 수 있을까?",
+    "sources": [
+      {
+        "title": "워릭대학교 도서관 · 《코머스》의 공연 기록과 배역",
+        "url": "https://wdc.contentdm.oclc.org/digital/collection/spc/id/7434/"
+      },
+      {
+        "title": "브로드뷰 드라마 선집 · 1642년 의회의 공연 중지 명령",
+        "url": "https://sites.broadviewpress.com/lessons/DramaAnthology/OrderForStagePlaysToCease/OrderForStagePlaysToCease.html"
+      }
+    ]
+  },
+  "england-1650": {
+    "context": "플레이퍼드가 1651년 펴낸 춤 교본에는 백 곡이 넘는 컨트리댄스의 선율과 춤추는 방법이 실려 있다. 악보만 있으면 한 사람이 곡조를 읽고, 옆 사람은 설명을 보며 어느 짝과 어느 방향으로 움직일지 함께 익힐 수 있었다.",
+    "focus": "보들리언도서관의 도해를 열고 가락이 처음으로 돌아가는 지점에 맞춰 무용수의 자리가 어떻게 바뀌는지 살펴보자.",
+    "sources": [
+      {
+        "title": "옥스퍼드 보들리언도서관 · 플레이퍼드의 춤 교본",
+        "url": "https://visit.bodleian.ox.ac.uk/playford-english-country-dances"
+      }
+    ]
+  },
+  "england-1675": {
+    "context": "1679년 웨스트민스터 사원의 오르가니스트가 된 헨리 퍼셀은 극장을 위한 음악도 썼다. 《디도와 에네아스》는 늦어도 1689년 첼시의 여학교에서 공연되었다. 남은 공연 자료로 확인할 수 있는 시점과 작곡한 날짜는 구별해야 한다.",
+    "focus": "《디도와 에네아스》를 들을 때 장면 제목을 확인하자. 에코 합창의 소리 주고받기와 3막 〈디도의 탄식〉의 반복 저음은 서로 다른 대목이다.",
+    "sources": [
+      {
+        "title": "웨스트민스터 사원 · 오르가니스트 헨리 퍼셀",
+        "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/henry-purcell-family"
+      },
+      {
+        "title": "《Early Music》 · 편지로 읽는 첼시 학교 공연의 연대",
+        "url": "https://doi.org/10.1093/em/cap041"
+      }
+    ]
+  },
+  "germany-1600": {
+    "context": "쉬츠는 베네치아에서 가브리엘리에게 배우고 1611년 이탈리아어 마드리갈을 출판했다. 드레스덴에서 펴낸 1619년 《다윗의 시편》에서는 합창 집단이 서로 응답하는 음향을 독일어 성서 구절과 결합했다.",
+    "focus": "공간을 나눈 합창이 응답할 때와 한 집단 안에서 두 선율이 다른 시점에 들어올 때를 구별해 보자.",
+    "sources": [
+      {
+        "title": "하인리히 쉬츠 박물관 · 작품과 생애 연보",
+        "url": "https://schuetzhaus-weissenfels.de/en/museum-english/heinrich-schutz/"
+      },
+      {
+        "title": "미국합창지휘자협회 · 쉬츠의 합창 작품과 편성",
+        "url": "https://acda-publications.s3.us-east-2.amazonaws.com/CJ/October2022/CJOct22.pdf"
+      }
+    ]
+  },
+  "germany-1625": {
+    "context": "30년 전쟁 중 쉬츠가 출판한 《작은 종교 협주곡》 제1권은 한 명에서 다섯 명까지의 목소리와 통주저음을 쓴다. ‘협주곡’이라는 이름으로 오늘날 흔히 떠올리는 독주악기와 관현악단의 모습과는 편성이 다르다.",
+    "focus": "저음 위에 목소리가 하나만 있어도 가사의 한 구절을 되풀이하거나 쉼을 두어 강조할 수 있다. 작은 편성에서 들리는 강조를 찾아보자.",
+    "sources": [
+      {
+        "title": "미국합창지휘자협회 · 쉬츠의 합창 작품과 편성",
+        "url": "https://acda-publications.s3.us-east-2.amazonaws.com/CJ/October2022/CJOct22.pdf"
+      },
+      {
+        "title": "하인리히 쉬츠 박물관 · 작품과 생애 연보",
+        "url": "https://schuetzhaus-weissenfels.de/en/museum-english/heinrich-schutz/"
+      }
+    ]
+  },
+  "germany-1650": {
+    "context": "1668년 북스테후데가 맡은 뤼베크 성 마리아 교회의 직책에는 오르간 연주와 회계 업무가 함께 들어 있었다. 그가 발전시킨 저녁 음악회는 1697년의 도시 안내서에 소개될 만큼 뤼베크를 찾는 사람들에게도 알려졌다.",
+    "focus": "오르간 독주곡과 저녁 음악회라는 공연 제도를 구별해 보자. 오르간 곡 한 곡이 곧 당시 음악회의 전체 프로그램은 아니다.",
+    "sources": [
+      {
+        "title": "뤼베크 성 마리아 교회 · 북스테후데와 저녁 음악회",
+        "url": "https://www.st-marien-luebeck.de/en/music/dieterich-buxtehude"
+      }
+    ]
+  },
+  "germany-1675": {
+    "context": "함부르크 시민들의 제안으로 1678년 겐제마르크트에 목조 오페라 극장이 들어섰다. 1685년 할레에서 태어난 헨델은 훗날 이 극장 악단에서 바이올린을 연주했고, 첫 오페라 《알미라》를 1705년 이곳에서 선보였다.",
+    "focus": "연표에서 극장 개관, 헨델 출생, 《알미라》 초연을 순서대로 짚어 보자. 후대 작곡가가 일할 자리가 그보다 먼저 생긴 사례다.",
+    "sources": [
+      {
+        "title": "함부르크 시 · 겐제마르크트 오페라 극장의 기원",
+        "url": "https://www.hamburg.com/visitors/sights/architecture/state-opera-23480"
+      },
+      {
+        "title": "런던 헨델 박물관 · 《알미라》 초연과 작품 해설",
+        "url": "https://handelhendrix.org/discover/learn-about-handel/opera-synopses/almira-hwv-1"
+      }
+    ]
+  },
+  "austria-1600": {
+    "context": "1614년 2월 10일 잘츠부르크 궁정의 기록자는 《오르페오》라는 목가극을 귀족들이 보고 들었다고 남겼다. 그 기록에 작곡가 이름은 없다. 1607년 만토바의 몬테베르디 작품과 제목이 같아도 동일 작품이라는 판단에는 별도의 근거가 필요하다.",
+    "focus": "만토바 공연과 잘츠부르크 공연을 나란히 놓고 작곡가·장소·연도 가운데 문서에서 직접 확인되는 항목을 표시해 보자.",
+    "sources": [
+      {
+        "title": "잘츠부르크 돔콰르티어 · 1614년 《오르페오》 공연 기록",
+        "url": "https://www.domquartier.at/hintergrundgeschichte/monteverdis-l-orfeo/"
+      }
+    ]
+  },
+  "austria-1625": {
+    "context": "빈 궁정에서 일한 프로베르거는 로마에서 프레스코발디에게 배웠다. 1649년 자필 곡집에는 춤곡과 토카타가 나란히 실렸다. 그의 모음곡은 판본에 따라 지그의 위치가 달라 후대에 익숙한 한 가지 악장 순서로만 묶기 어렵다.",
+    "focus": "자필본의 춤곡 이름을 읽고 알르망드·쿠랑트·사라반드·지그의 배열을 비교해 보자. 종이에 남은 순서도 연주 역사의 단서다.",
+    "sources": [
+      {
+        "title": "다비트 슐렌베르크 · 프로베르거의 1649년 자필 악보 (PDF)",
+        "url": "https://faculty.wagner.edu/david-schulenberg/files/2016/12/froberger_style.pdf"
+      },
+      {
+        "title": "일본 피아노지도자협회 · 프로베르거의 모음곡과 판본",
+        "url": "https://enc.piano.or.jp/en/persons/733"
+      }
+    ]
+  },
+  "austria-1650": {
+    "context": "1668년 빈에서 인쇄한 《황금 사과》의 표제는 레오폴트와 마르가리타의 혼인을 축하하는 공연이라고 명시한다. 1666년 혼인과 1668년 공연 사이에는 간격이 있다. 궁정 잔치의 대본과 그림은 이 음악극에 투입한 무대 작업까지 보여 준다.",
+    "focus": "빈 시립도서관의 원본을 펼쳐 장면의 배경을 찾아보자. 무대의 크기와 배우 배치는 볼 수 있지만 실제 공연의 음량은 이 그림에 남지 않는다.",
+    "sources": [
+      {
+        "title": "빈 시립도서관 · 1668년 《황금 사과》 인쇄본",
+        "url": "https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/3072528"
+      }
+    ]
+  },
+  "austria-1675": {
+    "context": "비버의 《묵주 소나타》 필사본은 곡 앞에 종교적 장면과 현의 조율을 제시한다. 대부분의 소나타에서 줄을 다르게 맞추는 스코르다투라를 사용하고 첫 소나타와 끝의 파사칼리아에서는 일반 조율을 쓴다.",
+    "focus": "두 곡의 첫머리에서 네 줄의 조율 지시를 비교해 보자. 같은 손가락을 같은 자리에 놓아도 줄을 어떻게 맞췄는지에 따라 다른 음이 난다.",
+    "sources": [
+      {
+        "title": "바이에른 주립도서관 · 비버의 《묵주 소나타》 필사본",
+        "url": "https://www.digitale-sammlungen.de/en/view/bsb00020682"
+      }
+    ]
+  },
+  "russia-1600": {
+    "context": "즈나멘니 성가의 필사본은 가사 위에 기호를 올려 한 음절에 붙는 한 음 또는 음들의 움직임을 가리킨다. 모건 도서관 소장본에서는 검은 선율 기호 곁에 음높이를 보충해 주는 붉은 표시도 볼 수 있다.",
+    "focus": "필사본의 제작 연대를 먼저 확인한 다음 글자와 기호가 놓인 위치를 살펴보자. 이 후대 자료를 통해 오래 전해 온 기보 관습을 볼 수 있다.",
+    "sources": [
+      {
+        "title": "모건 도서관·박물관 · 즈나멘니 기보 성가집",
+        "url": "https://www.themorgan.org/manuscript/381825"
+      },
+      {
+        "title": "유니코드 · 즈나멘니 기호와 색 표시 도판 (제21장 4절)",
+        "url": "https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-21/"
+      }
+    ]
+  },
+  "russia-1625": {
+    "context": "궁정과 교회의 문헌에서 민간 연희자를 만나는 방식은 비대칭적이다. 노래하고 악기를 켜며 이야기를 전한 스코모로히에 관해, 당사자의 악보보다 그들을 비판하고 단속한 쪽의 기록이 눈에 잘 띈다.",
+    "focus": "금지령은 당국이 어떤 공연을 문제 삼았는지 알려 준다. 실제 공연이 언제 어느 지역까지 이어졌는지는 어떤 다른 자료로 확인할 수 있을까?",
+    "sources": [
+      {
+        "title": "《Slavic Review》 · 스코모로히의 활동과 기록",
+        "url": "https://www.cambridge.org/core/journals/slavic-review/article/abs/skomorokhi-the-russian-minstrelentertainers/45463226FDE513ED6209748825995BE7"
+      }
+    ]
+  },
+  "russia-1650": {
+    "context": "17세기 키이우 등에서 발전한 다성 성가가 모스크바로 전해졌다. 이와 별개로 1672년 차르의 궁정에서는 성서의 에스테르 이야기를 바탕으로 한 연극이 상연되었다. 비슷한 시기 한 도시에서 예배와 연극은 서로 다른 사람과 장소를 필요로 했다.",
+    "focus": "여러 성부의 성가를 들을 때는 성부 수를, 궁정극의 기록에서는 대본과 관객을 찾아보자. 한 자료가 두 공연의 모습을 모두 전하지는 않는다.",
+    "sources": [
+      {
+        "title": "우크라이나 백과사전 · 교회음악의 기보와 다성 전통",
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CH%5CChurchmusic.htm"
+      },
+      {
+        "title": "《Theatre Research International》 · 1672년 모스크바 궁정극",
+        "url": "https://www.cambridge.org/core/journals/theatre-research-international/article/abs/mess-of-russians-left-us-but-of-late-diplomatic-blunder-literary-satire-and-the-muscovite-ambassadors-1668-visit-to-paris-theatres/64C7ED01867257A2BBD9D755E495AE3D"
+      }
+    ]
+  },
+  "russia-1675": {
+    "context": "딜레츠키의 《음악 문법》은 다성 합창을 만들 때 여러 선율이 어떻게 어울릴 수 있는지 가르치는 책이다. 이론을 자기 작품과 다른 음악가의 악보 예로 풀어내어, 가르치는 사람과 배우는 사람이 같은 구절을 놓고 이야기할 수 있게 했다.",
+    "focus": "한 성부만 부를 때는 보이지 않다가 두 성부를 겹치면 생기는 음정에 주목하자. 딜레츠키가 다룬 대위법의 출발점이다.",
+    "sources": [
+      {
+        "title": "우크라이나 백과사전 · 딜레츠키와 《음악 문법》",
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CD%5CY%5CDyletskyMykola.htm"
+      }
+    ]
+  },
+  "china-1600": {
+    "context": "명 말 강남에서 곤곡의 배우는 노래와 낭송, 소매와 손의 몸짓을 함께 익혔다. 한편 주재육은 이미 1584년에 한 옥타브를 열두 개의 같은 음정으로 나누는 방법을 계산했다. 두 역사는 같은 시대권에서 서로 다른 질문을 다룬다.",
+    "focus": "곤곡 공연에서 대나무 피리와 타악기가 배우의 동작을 어디서 받쳐 주는지 보자. 이 공연만으로 당시 모든 악기의 조율 방식을 판정할 수는 없다.",
+    "sources": [
+      {
+        "title": "유네스코 · 곤곡의 노래·악기·몸짓과 공연 영상",
+        "url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004"
+      },
+      {
+        "title": "하버드대학교 · 주재육의 1584년 음률 이론 연구",
+        "url": "https://dash.harvard.edu/entities/publication/9c907455-d97b-461d-862e-94bad7b6dd15"
+      }
+    ]
+  },
+  "china-1625": {
+    "context": "서상영은 명 말인 1641년 《계산금황》에서 금을 연주할 때 추구하는 성질을 스물네 항목으로 설명했다. 일곱 줄의 금에서는 빈 줄, 가볍게 손을 대 얻는 배음, 줄을 눌러 소리를 내는 방법으로 한 악기 안에서 음색을 달리한다.",
+    "focus": "음이 울린 뒤 높이가 미끄러지듯 바뀌는 순간을 찾아보자. 연주자가 줄을 누른 손을 옮기면 한 번 뜯은 뒤에도 선율이 이어질 수 있다.",
+    "sources": [
+      {
+        "title": "국제전통음악학회 연구 발표 · 서상영의 연주 미학과 악보 (PDF)",
+        "url": "https://vpa.ac.lk/wp-content/uploads/2023/03/Abstract-book-ICTM.pdf"
+      },
+      {
+        "title": "유네스코 · 고금의 일곱 줄과 세 가지 발음법",
+        "url": "https://ich.unesco.org/en/RL/guqin-and-its-music-00061"
+      }
+    ]
+  },
+  "china-1650": {
+    "context": "1673년 간행된 《대환각금보》에는 서상영의 악보와 앞서 쓴 연주론 《계산금황》이 함께 실렸다. 명대에 글로 정리한 연주 생각을 청대에 악보와 한 책으로 읽게 된 사례다.",
+    "focus": "같은 책을 읽는다고 같은 소리가 나올까? 음을 낸 뒤 남기는 여운과 눌러 짚는 손의 움직임을 오늘날 연주에서 관찰해 보자.",
+    "sources": [
+      {
+        "title": "국제전통음악학회 연구 발표 · 서상영의 연주 미학과 악보 (PDF)",
+        "url": "https://vpa.ac.lk/wp-content/uploads/2023/03/Abstract-book-ICTM.pdf"
+      },
+      {
+        "title": "유네스코 · 고금의 일곱 줄과 세 가지 발음법",
+        "url": "https://ich.unesco.org/en/RL/guqin-and-its-music-00061"
+      }
+    ]
+  },
+  "china-1675": {
+    "context": "홍승의 《장생전》은 당 현종과 양귀비의 이야기를, 공상임의 《도화선》은 명·청 교체기의 기억을 무대에 옮겼다. 같은 무렵 베이징 궁정에서 페레이라가 쓴 《율려찬요》에는 서양 음악 이론을 중국어로 설명하는 또 다른 작업이 담겼다.",
+    "focus": "공연 영상에서 사랑이나 이별을 설명하는 수단을 하나 골라보자. 시어를 몰라도 배우의 몸짓이나 타악기의 멈춤에서 어떤 단서를 찾을 수 있을까?",
+    "sources": [
+      {
+        "title": "유네스코 · 곤곡의 노래·악기·몸짓과 공연 영상",
+        "url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004"
+      },
+      {
+        "title": "컬럼비아대학교 · 공상임 《도화선》의 연극과 의례",
+        "url": "https://www.columbia.edu/cu/ealac/gradconf/abstracts.htm"
+      },
+      {
+        "title": "《Yale Journal of Music & Religion》 · 페레이라의 《율려찬요》",
+        "url": "https://elischolar.library.yale.edu/yjmr/vol10/iss2/3/"
+      }
+    ]
+  },
+  "korea-1600": {
+    "context": "1610년 《양금신보》는 장악원 악사 양덕수가 선별한 거문고 음악을 임실현감 김두남이 간행한 책이다. ‘양금’은 이름에 담긴 양덕수의 성과 거문고를 가리킨다. 악보에는 정간보·합자보·한글 육보가 함께 쓰였다.",
+    "focus": "악보에서 칸, 연주법을 적은 복합 기호, 소리를 흉내 낸 한글을 찾아보자. 같은 가락에서 세 방식이 각각 무엇을 기억하게 할까?",
+    "sources": [
+      {
+        "title": "국립국악원 국악사전 · 양금신보",
+        "url": "https://www.gugak.go.kr/ency/topic/view/1816"
+      }
+    ]
+  },
+  "korea-1625": {
+    "context": "병자호란 뒤인 1637년부터 기록이 남은 《악장등록》은 궁중 음악의 복구를 악공의 연습과 급료, 악기 제작과 조달 같은 구체적인 일로 보여 준다. 같은 세기의 민간 필사본 《백운암금보》는 정확한 편찬 연대가 전하지 않는다.",
+    "focus": "연주를 다시 열기 위해 먼저 무엇이 필요했을까? 《악장등록》의 기록과 거문고 악보가 각각 답할 수 있는 질문을 한 가지씩 정해 보자.",
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 · 악장등록",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034475"
+      },
+      {
+        "title": "한국민족문화대백과사전 · 백운암금보",
+        "url": "https://encykorea.aks.ac.kr/Article/E0022259"
+      }
+    ]
+  },
+  "korea-1650": {
+    "context": "1655년 다시 찍은 《악학궤범》에는 음악 이론뿐 아니라 궁중 춤을 출 때의 자리 이동, 악기 배치, 복식의 모양과 치수까지 담겼다. 악공이 모여도 어떤 악기를 어디에 놓고 어떤 차림으로 들어설지 알아야 의례를 치를 수 있었다.",
+    "focus": "도설을 한 장 골라 소리 없이도 복원할 수 있는 항목을 찾아보자. 같은 시기 가곡의 만대엽이 어떻게 불렸는지는 거문고 악보 등 다른 기록이 필요하다.",
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 · 악학궤범",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034481"
+      },
+      {
+        "title": "국립국악원 국악사전 · 만대엽",
+        "url": "https://www.gugak.go.kr/ency/topic/view/1634"
+      }
+    ]
+  },
+  "korea-1675": {
+    "context": "신성이 1680년에 완성한 《신증금보》는 중대엽과 삭대엽이 각각 여러 갈래로 분화하는 모습을 보여 준다. 원본은 한국전쟁 때 사라졌고 국립국악원에는 사본이 남아 있다. 지금 악보를 읽을 수 있는 것은 전해 쓴 사람들 덕분이다.",
+    "focus": "《양금신보》와 《신증금보》의 수록곡 이름을 비교해 보자. 같은 이름 뒤에 숫자가 붙은 변화는 무엇을 말해 주는가?",
+    "sources": [
+      {
+        "title": "국립국악원 국악사전 · 신증금보",
+        "url": "https://www.gugak.go.kr/ency/topic/view/1447"
+      },
+      {
+        "title": "국립국악원 국악사전 · 양금신보",
+        "url": "https://www.gugak.go.kr/ency/topic/view/1816"
+      }
+    ]
+  }
+}

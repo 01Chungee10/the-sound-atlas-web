@@ -1,278 +1,355 @@
 {
   "italy-1600": {
-    "imageFile": "Claudio Monteverdi 1 adjusted.jpg",
-    "imageCaption": "클라우디오 몬테베르디 초상 · 초기 오페라의 변화를 대표하는 작곡가",
+    "imageFile": "italy-1600.webp",
+    "imageCaption": "만토바에서 1607년에 초연한 작품을 1609년 베네치아에서 인쇄했다. 표제에서 작품 이름과 작곡가 이름을 찾아보자.",
     "audioFiles": [
-      "Orfeo - Toccata.ogg"
+      "Orfeo - Toccata.ogg",
+      "Dowland's realization of Caccini.ogg"
     ],
-    "listeningNote": "화려한 관악기 팡파르에 집중해 보세요. 오페라가 열린다는 신호처럼 들립니다.",
+    "listeningNote": "《오르페오》의 토카타에서는 짧은 음형이 무대의 시작을 알립니다. 이어서 카치니의 〈아마릴리〉를 류트로 옮긴 연주에서 노래 선율과 반주의 간격을 들어 보세요.",
     "question": "음악이 극의 대사를 전달할 때 무엇이 달라졌을까요?"
   },
   "italy-1625": {
-    "imageFile": "Cavalli - Didone - title page of the libretto, Venice 1641.png",
-    "imageCaption": "1641년 베네치아 오페라 대본 표지 · 궁정 밖으로 확장된 오페라 문화",
+    "imageFile": "italy-1625.webp",
+    "imageCaption": "1641년 베네치아에서 간행한 대본이다. 관객은 무대에서 듣는 이야기를 인쇄물로도 접할 수 있었다.",
     "audioFiles": [
+      "Claudio Monteverdi - \"Pur ti miro\" (L'incoronazione di Poppea).webm",
       "Orfeo - Toccata.ogg"
     ],
-    "listeningNote": "초기 궁정 오페라의 음악을 들으며 이후 공공극장의 확산을 비교해 보세요.",
+    "listeningNote": "베네치아 무대에 오른 《포페아의 대관》의 마지막 이중창입니다. 두 가수가 같은 말을 시차를 두고 부르다가 화음을 이루는 순간을 찾아보세요. 앞 시기의 만토바 궁정 오페라 《오르페오》와 비교할 수 있습니다.",
     "question": "표를 사서 입장하는 극장은 작곡가의 작품 선택을 어떻게 바꿨을까요?"
   },
   "italy-1650": {
-    "imageFile": "Stradivarius Ole Bull violin.jpg",
-    "imageCaption": "스트라디바리의 바이올린 · 악기 제작의 발전을 보여주는 예시",
+    "imageFile": "italy-1650.webp",
+    "imageCaption": "크레모나에서 1687년에 제작한 ‘올레 불’의 옆면이다. 몸통 가장자리에 새긴 장식까지 볼 수 있는 후속 시기의 사례다.",
     "audioFiles": [
+      "Maurizio Cazzati - La Caprara, Op. 35 No. 10 (synthesized performance).ogg",
       "Corelli-Trio Sonata 11-1.ogg"
     ],
-    "listeningNote": "바이올린 선율과 통주저음이 번갈아 드러나는 순간을 찾아보세요.",
+    "listeningNote": "볼로냐에서 활동한 카차티의 소나타를 트럼펫·현·통주저음 편성의 디지털 재현으로 듣습니다. 뒤 시기 코렐리의 트리오 소나타와 비교하며 높은 선율을 맡는 악기가 어떻게 달라지는지 들어 보세요.",
     "question": "성악 중심 무대와 기악 독주가 서로 다른 감상 문화를 만든 까닭은?"
   },
   "italy-1675": {
-    "imageFile": "Arcangelo Corelli, portrait by Hugh Howard (1697).jpg",
-    "imageCaption": "1697년경 아르칸젤로 코렐리 초상 · 유럽 기악 양식의 정립",
+    "imageFile": "italy-1675.webp",
+    "imageCaption": "휴 하워드가 1697–1698년경 그린 초상이다. 로마에서 활동하던 코렐리가 손에 든 종이에 주목해 보자.",
     "audioFiles": [
-      "Corelli-Trio Sonata 11-1.ogg"
+      "Corelli-Trio Sonata 11-1.ogg",
+      "Maurizio Cazzati - La Caprara, Op. 35 No. 10 (synthesized performance).ogg"
     ],
-    "listeningNote": "반복과 변주, 성부 간 대화가 어떻게 음악을 조직하는지 들어보세요.",
+    "listeningNote": "코렐리의 트리오 소나타에서 두 높은 성부가 동기를 주고받는 동안 낮은 성부가 어떻게 움직이는지 따라가 보세요. 카차티는 앞 시기 볼로냐 기악을 비교하는 예입니다.",
     "question": "악보의 출판과 확산은 연주 기법의 표준화에 어떤 역할을 했을까요?"
   },
   "france-1600": {
-    "imageFile": "Représentation d'Alceste dans la Cour de Marbre.jpg",
-    "imageCaption": "프랑스 궁정 오페라·발레 공연을 묘사한 동시대 후반의 장면",
-    "audioFiles": [],
-    "listeningNote": "이 시기의 음악은 춤, 시, 왕권의 표현과 함께 감상해야 합니다.",
+    "imageFile": "france-1600.webp",
+    "imageCaption": "1581년 파리 궁정 공연을 기록해 1582년에 펴낸 책의 삽화다. 다음 세기 궁정 발레의 무대장치를 이해할 선행 사례다.",
+    "audioFiles": [
+      "Je.suis.ravi.de.mon.Uranie.ogg",
+      "Étienne Moulinié (1599–1676) – Fantasia à4, VdGS No.2 for 2 Treble Viols, Tenor & Bass Viols (1639).ogg"
+    ],
+    "listeningNote": "첫 곡은 프랑스 궁정 가곡 에르 드 쿠르의 예입니다. 프랑스어 음절이 길어지거나 짧아질 때 선율도 함께 변하는지 들어 보세요. 같은 작곡가가 1639년에 남긴 비올 작품과 비교할 수 있습니다.",
     "question": "왕이 직접 춤추는 공연은 단순한 오락을 넘어 어떤 의미를 지녔을까요?"
   },
   "france-1625": {
-    "imageFile": "Portrait of Louis XIII, King of France MET DP879918.jpg",
-    "imageCaption": "루이 13세 초상 · 왕실 후원 아래 발전한 합주 문화",
-    "audioFiles": [],
-    "listeningNote": "왕실 현악 합주와 이후 륄리 시대의 합주를 비교해 보세요.",
+    "imageFile": "france-1625.webp",
+    "imageCaption": "왕실 현악 합주단을 후원한 군주를 약 1650년의 판화로 살펴본다. 장식 틀 가운데 왕의 모습이 들어 있다.",
+    "audioFiles": [
+      "Étienne Moulinié (1599–1676) – Fantasia à4, VdGS No.2 for 2 Treble Viols, Tenor & Bass Viols (1639).ogg",
+      "Lully Le Bourgeois Gentilhomme - 01. Ouverture.ogg"
+    ],
+    "listeningNote": "물리니에의 1639년 판타지아에서 네 성부가 차례로 들어오는 자리를 짚어 보세요. 비올 실내악과 훗날 륄리의 무대 합주를 비교하는 녹음입니다. 왕의 24 바이올린이 연주한 곡을 특정한 것은 아닙니다.",
     "question": "왕의 24 바이올린은 현대 오케스트라와 무엇이 같고 달랐을까요?"
   },
   "france-1650": {
-    "imageFile": "Ballet de la nuit 1653.jpg",
-    "imageCaption": "1653년 《밤의 발레》 관련 자료 · 태양왕의 등장",
+    "imageFile": "france-1650.webp",
+    "imageCaption": "1653년 《밤의 발레》에서 왕이 입은 태양 의상 도안이다. 방사형 장식이 배역과 왕권을 함께 드러낸다.",
     "audioFiles": [
-      "Lully Le Bourgeois Gentilhomme - 11. Marche pour la Ceremonie des Turcs.ogg"
+      "Lully Le Bourgeois Gentilhomme - 11. Marche pour la Ceremonie des Turcs.ogg",
+      "Lully Le Bourgeois Gentilhomme - 01. Ouverture.ogg"
     ],
-    "listeningNote": "선택 음악의 작곡 시기·후대 편곡 여부를 확인한 뒤, 해당 장면의 사회적 맥락과 비교해 들어보세요. 동일 사건의 현장 녹음이 아닙니다.",
+    "listeningNote": "《서민 귀족》(1670)의 행진곡에서 반복되는 박을 손으로 짚어 보세요. 같은 무대 작품의 서곡으로 바꾸면 느린 부분의 길고 짧은 리듬이 또렷이 들립니다.",
     "question": "무용과 권력은 프랑스의 고유한 오페라 형성에 어떤 영향을 미쳤을까요?"
   },
   "france-1675": {
-    "imageFile": "17th century view of the Entrance front of Le Trianon de Porcelaine.jpg",
-    "imageCaption": "17세기 베르사유 부속 궁정의 풍경 · 왕실 의례의 무대",
+    "imageFile": "france-1675.webp",
+    "imageCaption": "17세기에 그린 정면 풍경이다. 규모가 작은 궁정 건물과 그 앞의 사람들을 통해 왕실 행사의 공간을 상상해 볼 수 있다.",
     "audioFiles": [
-      "07 Armide. Acte II, Scene 5- Prelude.ogg",
-      "Couperin-plein jeu kyrie messe pour les couvents.ogg"
+      "Couperin-plein jeu kyrie messe pour les couvents.ogg",
+      "Lully Le Bourgeois Gentilhomme - 11. Marche pour la Ceremonie des Turcs.ogg"
     ],
-    "listeningNote": "대규모 궁정 합주가 개인적 실내악과 다르게 들리는 지점을 찾아보세요.",
+    "listeningNote": "쿠프랭의 《수도원 미사》에서 관현악처럼 여러 음색이 겹치는 플랭 쥐를 들어 보세요. 륄리의 앞 시기 궁정 춤곡과 나란히 들으면 같은 프랑스 음악 안에서도 예배와 무대의 차이가 납니다.",
     "question": "베르사유 궁정으로의 이전은 음악가의 생활과 창작에 무엇을 바꿨을까요?"
   },
   "england-1600": {
-    "imageFile": "John Dowland.jpg",
-    "imageCaption": "류트 가곡을 대표하는 존 다울랜드 관련 이미지",
+    "imageFile": "england-1600.webp",
+    "imageCaption": "1597년 초판 표제에 노래의 성부 수와 류트용 태블러처가 함께 적혀 있다. 가정에서도 목소리와 류트를 조합할 수 있었음을 보여준다.",
     "audioFiles": [
-      "John Dowland (1563-1626) - Mistress Nichols Almand à5, Lachrimae, No.20 for Treble, Tenor & Bass Viols with Great Bass Violone in G.ogg"
+      "John Dowland (1563-1626) - Mistress Nichols Almand à5, Lachrimae, No.20 for Treble, Tenor & Bass Viols with Great Bass Violone in G.ogg",
+      "William Byrd - Browning a5.ogg"
     ],
-    "listeningNote": "류트의 작은 음량과 성악 선율의 관계를 의식하며 들어보세요.",
+    "listeningNote": "다울랜드의 《라크리메》 중 춤곡을 비올 합주로 연주합니다. 다섯 성부가 춤의 박을 함께 만드는 방식과, 이전 세대 버드가 한 선율을 성부 사이로 옮기는 방식을 비교해 보세요.",
     "question": "궁정의 친밀한 노래와 대규모 무대 음악은 청중을 어떻게 달리 상정했을까요?"
   },
   "england-1625": {
-    "imageFile": "Anthony van Dyck - King Charles I of England, three-quarter portrait.jpg",
-    "imageCaption": "찰스 1세 초상 · 내전 이전의 왕실 공연 문화를 상징",
+    "imageFile": "masque.webp",
+    "imageCaption": "17세기 전반 영국 궁정 가면극을 위한 의상 도안이다. 배역의 이름을 몸짓과 옷의 장식으로 어떻게 드러냈는지 관찰해 보자.",
     "audioFiles": [
+      "William Lawes (1602-1645) - Aire à4, VdGS No.112, Oxford. Bodleian Library, Mus.Sch.b.2, p.33 (ca.1638-45).ogg",
       "William Byrd - Browning a5.ogg"
     ],
-    "listeningNote": "전쟁 전후의 공연 환경 변화가 음악의 규모에 어떤 차이를 낳았을지 생각해 보세요.",
+    "listeningNote": "로스의 네 성부 에어는 1638~1645년경 자료로 전합니다. 한 성부가 움직일 때 나머지 성부들이 어떻게 받치는지, 이전 세대의 버드와 비교해 보세요.",
     "question": "극장 폐쇄는 음악을 사라지게 했을까요, 아니면 연주 장소를 바꾸었을까요?"
   },
   "england-1650": {
-    "imageFile": "The English Dancing Master-John Playford-1651 (page 2 cropped initial letter T).jpg",
-    "imageCaption": "존 플레이퍼드의 춤곡집(1651) 관련 자료 · 시민의 음악 활동",
+    "imageFile": "dancing.webp",
+    "imageCaption": "당대 영국의 춤을 곡조와 함께 묶은 책이다. 누가 어디에 서서 무엇을 했는지 표제 장식 속 춤추는 사람에게서 단서를 찾아보자.",
     "audioFiles": [
-      "The Begger Boy – Playford's The English Dancing Master (1651).ogg"
+      "The Begger Boy – Playford's The English Dancing Master (1651).ogg",
+      "William Lawes (1602-1645) - Aire à4, VdGS No.112, Oxford. Bodleian Library, Mus.Sch.b.2, p.33 (ca.1638-45).ogg"
     ],
-    "listeningNote": "악보가 널리 팔릴수록 집에서도 음악을 공유할 수 있었을까요?",
+    "listeningNote": "1651년 플레이퍼드 춤곡집의 선율을 리코더와 타악기로 편곡한 연주입니다. 같은 선율이 돌아오는 곳에 발걸음을 맞춰 보세요. 앞 시기 로스의 비올 합주에서는 박이 어떻게 달라질까요?",
     "question": "공개 음악회는 청중과 음악가의 관계를 어떻게 바꾸었을까요?"
   },
   "england-1675": {
-    "imageFile": "Henry Purcell Closterman.jpg",
-    "imageCaption": "헨리 퍼셀의 초상 · 17세기 말 영국 극음악",
+    "imageFile": "purcell-ms.webp",
+    "imageCaption": "에드워드 우들리 스미스가 옮겨 쓴 악보다. 성악과 반주가 같은 페이지에 어떤 높낮이로 배치되었는지 살펴보자.",
     "audioFiles": [
-      "Purcell from Dido & Aeneas, Act 2, scene 1, echo chorus 01.wav",
+      "Dido&Aeneas-ukr-32(air&choir).ogg",
       "Henry Purcell (1659-1695) – In Nomine à6, Z.746 for Treble, Tenor & Bass Viols.ogg"
     ],
-    "listeningNote": "목소리가 주고받는 에코 효과와 극적 분위기를 느껴보세요.",
+    "listeningNote": "〈디도의 탄식〉은 후대의 우크라이나어 공연으로 듣습니다. 낮은 성부에서 되돌아오는 진행과 그 위에서 길게 이어지는 노래를 나누어 들어 보세요. 〈인 노미네〉에서는 목소리 자리를 비올 소리가 채웁니다.",
     "question": "퍼셀이 세미 오페라와 극음악에 남긴 독특한 특징은 무엇일까요?"
   },
   "germany-1600": {
-    "imageFile": "Portret van Heinrich Schütz, RP-P-1914-3479.jpg",
-    "imageCaption": "하인리히 쉬츠 관련 판화 · 이탈리아 기법을 독일 교회음악에 접목",
+    "imageFile": "germany-1600.webp",
+    "imageCaption": "크리스티안 롬슈테트의 후대 초상 판화다. 쉬츠가 이탈리아에서 배운 기법을 독일어권에 전한 시기보다 뒤에 제작되었다.",
     "audioFiles": [
-      "Schutz Heu mihi, Domine from Cantiones Sacrae 01.wav"
+      "Volte - Stellar Brass - United States Air Force Band of the Rockies.mp3",
+      "Cantus Polonicus - Musikalische Exequien II.ogg"
     ],
-    "listeningNote": "베네치아 다합창 양식이 독일어 텍스트와 만나면 무엇이 달라질까요?",
+    "listeningNote": "프레토리우스의 1612년 춤곡집에 실린 볼트를 오늘날의 금관 편곡으로 듣습니다. 박이 묶이는 지점을 짚은 다음 쉬츠의 뒤 시기 합창과 소리의 층을 비교해 보세요.",
     "question": "음악가는 왜 다른 나라의 양식을 배우러 떠났을까요?"
   },
   "germany-1625": {
-    "imageFile": "Sack of Magdeburg 1631.jpg",
-    "imageCaption": "1631년 마그데부르크 함락을 묘사한 역사 자료",
+    "imageFile": "germany-1625.webp",
+    "imageCaption": "1631년 마그데부르크 공방을 1659년에 출판한 도상이다. 전쟁이 교회와 도시 음악가들의 생활 터전에 닿았던 공간을 살펴보자.",
     "audioFiles": [
-      "Schutz Heu mihi, Domine from Cantiones Sacrae 01.wav"
+      "Cantus Polonicus - Musikalische Exequien II.ogg",
+      "Volte - Stellar Brass - United States Air Force Band of the Rockies.mp3"
     ],
-    "listeningNote": "전쟁으로 줄어든 악단 규모가 작곡법에 주는 영향을 생각해 보세요.",
+    "listeningNote": "쉬츠의 《음악 장례식》 2부에서 여러 성부가 독일어 가사를 건네는 방식에 귀를 기울여 보세요. 장례 예배를 위한 합창과 앞 시기의 춤곡은 어디에서 숨을 고를까요?",
     "question": "연주자 수가 급감했을 때 작곡가는 음악적 표현을 어떻게 유지할까요?"
   },
   "germany-1650": {
-    "imageFile": "Marienkirche before 1942.jpg",
-    "imageCaption": "뤼베크 성모마리아 교회의 과거 모습 · 북독일 오르간 음악의 중심지",
+    "imageFile": "germany-1650.webp",
+    "imageCaption": "북스테후데가 일했던 교회를 요한 뇌링이 1913년 이전에 촬영했다. 회중석 끝 높은 곳에 설치한 오르간이 보인다.",
     "audioFiles": [
-      "Buxtehude - Toccata in F-Dur BuxWV 161.ogg"
+      "Buxtehude - Toccata in F-Dur BuxWV 161.ogg",
+      "Cantus Polonicus - Musikalische Exequien II.ogg"
     ],
-    "listeningNote": "오르간의 음색층과 거대한 공간의 울림을 상상하며 들어보세요.",
+    "listeningNote": "북독일 오르간 전통을 들려주는 북스테후데의 F장조 토카타입니다. 음이 빠르게 흘러가다가 화음 위에 머무는 대목을 찾아보세요. 쉬츠의 합창은 앞 시기와의 비교곡입니다.",
     "question": "항구 도시의 시민 음악 모임은 궁정 음악과 어떻게 달랐을까요?"
   },
   "germany-1675": {
-    "imageFile": "Pachelbel.jpg",
-    "imageCaption": "파헬벨 관련 초상 자료 · 독일 오르간과 변주곡 전통",
+    "imageFile": "germany-1675.webp",
+    "imageCaption": "현대에 다시 그린 악보에서 여덟 음의 순서를 따라가 보자. 연주가 계속되어도 같은 자리로 돌아오는 저음이다.",
     "audioFiles": [
       "Pachelbel - Canon in D major, P. 37 (Guitar).ogg",
       "Buxtehude - Toccata in F-Dur BuxWV 161.ogg"
     ],
-    "listeningNote": "선택 음악의 작곡 시기·후대 편곡 여부를 확인한 뒤, 해당 장면의 사회적 맥락과 비교해 들어보세요. 동일 사건의 현장 녹음이 아닙니다.",
+    "listeningNote": "파헬벨의 캐논을 현대 기타 편곡으로 듣습니다. 짧게 되돌아오는 베이스와 뒤따라 들어오는 선율을 구분해 보세요. 오르간에서 음이 이어지는 방식과도 비교할 수 있습니다.",
     "question": "바흐와 헨델은 앞선 세대의 어떤 기반 위에서 출발했을까요?"
   },
   "austria-1600": {
-    "imageFile": "SM - Porträt Sittikus 1 Dom.jpg",
-    "imageCaption": "잘츠부르크 대주교 마르쿠스 지티쿠스의 초상 관련 사진",
-    "audioFiles": [],
-    "listeningNote": "이탈리아식 오페라가 알프스를 넘어 궁정에 전해지는 장면을 상상해 보세요.",
+    "imageFile": "austria-1600.webp",
+    "imageCaption": "1618년 마르쿠스 지티쿠스 대주교 초상에 들어간 대성당 건설 도상이다. 확대된 부분에서 건물을 세우는 사람들의 모습이 보인다.",
+    "audioFiles": [
+      "Orfeo - Toccata.ogg",
+      "Girolamo Frescobaldi - Toccata 3.ogg"
+    ],
+    "listeningNote": "잘츠부르크로 옮겨 간 이탈리아 궁정 오페라의 배경을 만토바의 《오르페오》 토카타로 살펴봅니다. 잘츠부르크 공연의 선곡과 편성을 재현한 녹음은 아닙니다.",
     "question": "이탈리아 오페라는 왜 오스트리아의 궁정에서 환영받았을까요?"
   },
   "austria-1625": {
-    "imageFile": "Ferdinand III, Holy Roman Emperor.jpg",
-    "imageCaption": "페르디난트 3세 초상 · 직접 작곡한 황제",
+    "imageFile": "austria-1625.webp",
+    "imageCaption": "1643년의 황제 초상이다. 빈 궁정에서는 군주가 음악가를 고용하는 일과 직접 작곡하는 일이 함께 일어났다.",
     "audioFiles": [
-      "Johann Jakob Froberger - Toccata and Suite in A minor.ogg"
+      "Johann Jakob Froberger - Toccata and Suite in A minor.ogg",
+      "Girolamo Frescobaldi - Toccata 3.ogg"
     ],
-    "listeningNote": "선택 음악의 작곡 시기·후대 편곡 여부를 확인한 뒤, 해당 장면의 사회적 맥락과 비교해 들어보세요. 동일 사건의 현장 녹음이 아닙니다.",
+    "listeningNote": "빈 궁정의 건반 연주자 프로베르거의 토카타에서 짧은 음형이 박자를 늦추거나 몰아가는 대목을 들어 보세요. 그의 스승 프레스코발디의 건반곡도 들을 수 있습니다.",
     "question": "통치자가 작곡가일 때 궁정음악은 어떻게 달라질까요?"
   },
   "austria-1650": {
-    "imageFile": "Cesti - La Dori - libretto, Venice 1667 - title page.png",
-    "imageCaption": "체스티 《도리》의 1667년 대본 표지 · 빈·인스브루크의 오페라",
+    "imageFile": "austria-1650.webp",
+    "imageCaption": "인스브루크 궁정과 연결된 이탈리아어 오페라가 다른 도시에서도 공연되었다. 이 표제면에는 1667년 베네치아라는 출판 정보가 남아 있다.",
     "audioFiles": [
-      "Froberger Tombeau de Monsieur de Blancheroche.ogg"
+      "Froberger Tombeau de Monsieur de Blancheroche.ogg",
+      "Nachtwächterlied.flac"
     ],
-    "listeningNote": "이탈리아어 오페라가 오스트리아 궁정에 들어온 경로에 주목해 보세요.",
+    "listeningNote": "빈 궁정에서 활동한 프로베르거가 남긴 하프시코드 애도곡입니다. 한 음이 잦아들기 전에 이어지는 음을 들어 보세요. 이어지는 비버의 차코나는 약 1670년 작품을 바순과 현악으로 재구성한 비교곡입니다.",
     "question": "제국의 권력과 무대 기술이 만났을 때 오페라는 어떤 모습이 되었을까요?"
   },
   "austria-1675": {
-    "imageFile": "Heinrich Biber.png",
-    "imageCaption": "하인리히 비버 초상 · 잘츠부르크의 바이올린 거장",
-    "audioFiles": [],
-    "listeningNote": "줄의 조율을 바꿔 새로운 울림을 만드는 스코르다투라를 찾아보세요.",
+    "imageFile": "biber-tuning.webp",
+    "imageCaption": "《묵주 소나타》 제11곡의 조율법이다. 가운데 두 줄을 교차하는 지시가 악보에 어떻게 그려졌는지 볼 수 있다.",
+    "audioFiles": [
+      "Biber Sonata XI 1 as heard.flac",
+      "Biber Sonata XI 1 as written.flac"
+    ],
+    "listeningNote": "비버의 《묵주 소나타》 11번에서 같은 세 마디를 두 번 듣습니다. 첫 예는 변칙 조현에서 울리는 음, 둘째는 적힌 음을 그대로 낸 디지털 예시입니다. 악보의 운지와 실제 음높이가 갈라지는 순간을 찾아보세요.",
     "question": "악기 제작과 조율의 변화는 작곡 가능성을 어떻게 확장할까요?"
   },
   "russia-1600": {
-    "imageFile": "Kryuki.jpg",
-    "imageCaption": "러시아 즈나멘니 성가의 '크류키' 기보 자료",
+    "imageFile": "rus-chant.webp",
+    "imageCaption": "표도르 크레스티야닌의 성가를 17세기에 옮겨 쓴 자료다. 노랫말 윗줄에 얹힌 기호들을 한 줄씩 따라가 보자.",
     "audioFiles": [
-      "04 Bogorodice Devo radujsja znamennyj raspev grind Moscow Patriarchal Choir.ogg"
+      "04 Bogorodice Devo radujsja znamennyj raspev grind Moscow Patriarchal Choir.ogg",
+      "02 Carju Nebesnyj znamennyj raspev grind Moscow Patriarchal Choir.ogg"
     ],
-    "listeningNote": "반주 없는 단선율의 움직임과 호흡에 집중해 보세요. 녹음은 현대 연주입니다.",
+    "listeningNote": "현대 모스크바 총대주교청 합창단의 즈나멘니 성가입니다. 노랫말 한 음절에서 여러 음을 이어 가는 부분에 귀를 기울여 보세요.",
     "question": "오선보가 아닌 기호로 노래를 기록하는 방식에는 어떤 장점이 있을까요?"
   },
   "russia-1625": {
-    "imageFile": "Skomorokhs.jpg",
-    "imageCaption": "스코모로히를 묘사한 그림 · 종교적 금지 대상이 된 민간 악사",
+    "imageFile": "russia-1625.webp",
+    "imageCaption": "금지령 이후인 18세기의 러시아 루보크 판화다. 떠돌이 연희자를 어떤 인물로 기억했는지 보여주는 후대 도상이다.",
     "audioFiles": [
-      "04 Bogorodice Devo radujsja znamennyj raspev grind Moscow Patriarchal Choir.ogg"
+      "02 Carju Nebesnyj znamennyj raspev grind Moscow Patriarchal Choir.ogg",
+      "05 Se Zhenih grjadet v polunowi znamennyj raspev grind Moscow Patriarchal Choir.ogg"
     ],
-    "listeningNote": "교회 성가와 금지된 민간 악기 음악을 구별해 생각해 보세요.",
+    "listeningNote": "〈하늘의 임금이여〉에서 악기 없이 이어지는 성가 선율을 들어 보세요. 교회에 전승된 이 노래와 달리, 장면에 등장하는 떠돌이 악사들의 음악은 이 녹음에서 들을 수 없습니다.",
     "question": "권력이 금지한 음악은 어디에서 어떤 방식으로 살아남았을까요?"
   },
   "russia-1650": {
-    "imageFile": "Russian icon of 'St. Nicholas of Velikoretsk', 17th century.JPG",
-    "imageCaption": "17세기 러시아의 종교문화 자료 · 정교회 예배 음악의 맥락",
+    "imageFile": "rus-systems.webp",
+    "imageCaption": "17세기 후반의 필사본이다. 전통 성가 기호와 보표 기보를 함께 놓아 두 기보 체계를 비교할 수 있다.",
     "audioFiles": [
-      "04 Bogorodice Devo radujsja znamennyj raspev grind Moscow Patriarchal Choir.ogg"
+      "05 Se Zhenih grjadet v polunowi znamennyj raspev grind Moscow Patriarchal Choir.ogg",
+      "Иже Херувимы, №7. Бортнянскаго.ogg"
     ],
-    "listeningNote": "단선율 전통에서 다성 합창으로 옮겨가는 변화를 상상해 보세요.",
+    "listeningNote": "〈보라, 신랑이 오신다〉에서 하나의 선율선을 따라간 뒤, 훗날 보르트냔스키의 다성 찬가와 비교해 보세요. 두 녹음은 파르테스가 등장한 무렵과 그 이후의 성부 짜임을 비교할 실마리입니다.",
     "question": "키예프 성가대의 이동은 모스크바의 음악어법에 어떤 변화를 만들었을까요?"
   },
   "russia-1675": {
-    "imageFile": "Diletsky circle.jpg",
-    "imageCaption": "딜레츠키의 음악 이론에 등장하는 5도권 그림",
+    "imageFile": "russia-1675.webp",
+    "imageCaption": "1679년판 음악 이론서에 실린 도해다. 원을 따라 조성 사이의 관계를 배열한 방식을 볼 수 있다.",
     "audioFiles": [
+      "Иже Херувимы, №7. Бортнянскаго.ogg",
       "04 Bogorodice Devo radujsja znamennyj raspev grind Moscow Patriarchal Choir.ogg"
     ],
-    "listeningNote": "전통 성가와 서양식 화성법의 차이를 관찰해 보세요.",
+    "listeningNote": "파르테스 이후의 다성 성가를 비교하는 예로, 1751년생 보르트냔스키의 〈케루빔 찬가〉를 듣습니다. 딜레츠키나 티토프의 작품과는 작곡가와 시대가 다릅니다. 화음이 함께 움직이는 순간을 찾아보세요.",
     "question": "구전·전통 기보에서 체계적인 이론서로 옮겨갈 때 무엇이 달라질까요?"
   },
   "china-1600": {
-    "imageFile": "The Peony Pavilion WDL7112.jpg",
-    "imageCaption": "《모란정》 관련 고전 자료 · 명 말 곤곡의 예술성",
+    "imageFile": "china-1600.webp",
+    "imageCaption": "1617년 간행본이다. 등장인물의 노랫말과 이야기를 독자가 인쇄물로도 만났다는 사실을 보여준다.",
     "audioFiles": [
+      "Pingsha Luoyan.ogg",
       "Guqin-Zuiyu Changwan.ogg"
     ],
-    "listeningNote": "고금(古琴) 독주의 음색을 들으며 곤곡의 가창·반주와 구별해 보세요. 이 곡은 곤곡 자체가 아닙니다.",
-    "question": "연극·노래·이론이 함께 발전한 문화적 조건은 무엇이었을까요?"
+    "listeningNote": "고금곡 〈평사낙안〉을 1868년 금보에 따른 현대 연주로 듣습니다. 현을 뜯은 다음 음을 미끄러뜨리는 소리를 따라가 보세요. 곤곡의 노래와 무대 동작은 아래 유네스코 공연 영상에서 함께 볼 수 있습니다.",
+    "question": "연극·노래·이론이 함께 발전한 문화적 조건은 무엇이었을까요?",
+    "listeningSource": {
+      "title": "유네스코 · 곤곡 공연 영상",
+      "url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004"
+    }
   },
   "china-1625": {
-    "imageFile": "Chinese Upper Class Man Sitting at a Table Playing the Qin.jpg",
-    "imageCaption": "금을 연주하는 중국 문인의 그림 · 명말 문인 음악의 맥락",
+    "imageFile": "qin-notation.webp",
+    "imageCaption": "호문환이 엮어 만력 25년(1597)에 간행한 금보다. 명말에 읽힌 악서의 판식과 세로 글줄을 볼 수 있다.",
     "audioFiles": [
-      "Guqin-Zuiyu Changwan.ogg"
+      "Guqin-Zuiyu Changwan.ogg",
+      "Pingsha Luoyan.ogg"
     ],
-    "listeningNote": "작은 탄현 소리와 여백을 어떻게 음악으로 듣는지 생각해 보세요.",
-    "question": "왕조가 바뀌는 시기에 금(琴) 음악은 왜 은거의 상징이 되었을까요?"
+    "listeningNote": "〈취어창만〉을 1876년 금보에 따른 현대 연주로 듣습니다. 한 음을 튕기고 나서 남는 소리까지 한 구절로 들어 보세요. 명말 문인의 음악 생활과 비교하기 위한 후대 연주본입니다.",
+    "question": "왕조가 바뀌는 시기에 금(琴) 음악은 왜 은거의 상징이 되었을까요?",
+    "listeningSource": {
+      "title": "유네스코 · 곤곡 공연 영상",
+      "url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004"
+    }
   },
   "china-1650": {
-    "imageFile": "Portrait of the Kangxi Emperor in Informal Dress Holding a Brush.jpg",
-    "imageCaption": "강희제의 초상 · 동서 음악이 만난 청나라 궁정",
+    "imageFile": "china-1650.webp",
+    "imageCaption": "강희 연간(1662–1722)의 궁정 초상이다. 책상에 앉은 황제의 모습에서 학문과 예술을 후원하는 군주의 형상을 읽을 수 있다.",
     "audioFiles": [
+      "Liu Shui.ogg",
       "Guqin-Zuiyu Changwan.ogg"
     ],
-    "listeningNote": "금 독주를 감상하면서 궁정에 들어온 서양 음악이 무엇을 바꾸었는지 비교해 보세요.",
-    "question": "중국 황실은 서양 음악을 어떤 방식으로 받아들였을까요?"
+    "listeningNote": "〈유수〉는 1876년 금보에 따른 쓰촨 계통 연주입니다. 잇달아 튕긴 현의 울림이 하나로 이어지는 대목을 찾아보세요. 청 초에 정리되던 악보보다 후대의 판본을 사용합니다.",
+    "question": "중국 황실은 서양 음악을 어떤 방식으로 받아들였을까요?",
+    "listeningSource": {
+      "title": "유네스코 · 곤곡 공연 영상",
+      "url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004"
+    }
   },
   "china-1675": {
-    "imageFile": "The Peach Blossom Fan 2012.JPG",
-    "imageCaption": "《도화선》의 현대 공연 사진 · 1699년 희곡을 이해하기 위한 후대 공연 사례",
+    "imageFile": "china-1675.webp",
+    "imageCaption": "1699–1722년 사이에 제작된 것으로 분류된 책이다. 표지에는 작품 제목이, 펼친 면에는 세로 본문이 남아 있다.",
     "audioFiles": [
-      "Guqin-Yangguan Sandie.ogg"
+      "Guqin-Yangguan Sandie.ogg",
+      "Liu Shui.ogg"
     ],
-    "listeningNote": "후대의 중국 전통음악을 시대 이해를 위한 참고로만 들어보세요.",
-    "question": "희곡은 왕조 교체의 기억을 음악과 함께 어떻게 전달했을까요?"
+    "listeningNote": "〈양관삼첩〉은 1867년 금보에 따른 고금 연주입니다. 여운과 쉼이 악구를 나누는 곳을 들어 보세요. 같은 장면의 곤곡은 유네스코 영상에서 배우의 호흡과 몸짓을 함께 볼 수 있습니다.",
+    "question": "희곡은 왕조 교체의 기억을 음악과 함께 어떻게 전달했을까요?",
+    "listeningSource": {
+      "title": "유네스코 · 곤곡 공연 영상",
+      "url": "https://ich.unesco.org/en/RL/kun-qu-opera-00004"
+    }
   },
   "korea-1600": {
-    "imageFile": "Geomungo.jpg",
-    "imageCaption": "거문고의 현대 악기 사진 · 17세기 《양금신보》 이해를 위한 형태 자료",
-    "audioFiles": [],
-    "listeningNote": "만대엽·중대엽의 현대 재현을 찾을 때 원전과 전승 범위를 확인해 보세요.",
+    "imageFile": "yanggeum.webp",
+    "imageCaption": "양덕수가 1610년에 편찬한 거문고 악서의 디지털 사본이다. 거문고 줄과 괘를 어떻게 배치하는지 보여주는 도해를 실제 악기 사진과 견주어 보자.",
+    "audioFiles": [
+      "yeominrak",
+      "V1-311-010"
+    ],
+    "listeningNote": "〈여민락〉 현대 연주에서 길게 끄는 음과 그 사이를 채우는 소리를 나누어 들어 보세요. 이어서 〈희문〉의 노랫소리만 들으면 궁중 연례와 종묘 제례의 쓰임을 비교할 수 있습니다.",
     "question": "왜 전쟁 뒤에는 악보를 다시 펴내는 일이 중요했을까요?",
-    "primarySourceUrl": "https://www.gugak.go.kr/ency/topic/view/1816"
+    "primarySourceUrl": "https://www.gugak.go.kr/ency/topic/view/1816",
+    "listeningSource": {
+      "title": "국립국악원 · 현행 가곡과 옛 삭대엽",
+      "url": "https://www.gugak.go.kr/ency/topic/view/1636"
+    }
   },
   "korea-1625": {
-    "imageFile": "Korea-Namhansanseong-02.jpg",
-    "imageCaption": "남한산성 관련 사진 · 병자호란 당시의 역사적 공간",
-    "audioFiles": [],
-    "listeningNote": "전란 속 민간 풍류와 궁중음악의 서로 다른 생존 조건을 생각해 보세요.",
-    "question": "국가의 위기 속에서 음악의 기록과 전승은 누가 맡았을까요?"
+    "imageFile": "korea-1625.webp",
+    "imageCaption": "병자호란 때 조선 조정이 머물렀던 남한산성의 오늘날 남문이다. 전쟁 당시 궁중 악공과 악서가 놓였던 역사적 배경을 짚어 보는 장소 자료다.",
+    "audioFiles": [
+      "V1-251-010",
+      "S2-211-010"
+    ],
+    "listeningNote": "〈동창이 밝았느냐〉는 후대의 시조로, 이 장면에서는 오늘날 시조창이 시 한 줄을 얼마나 길게 펴는지 듣습니다. 두 번째 악구에서는 거문고가 노래의 자리를 어떻게 받치는지 살펴보세요.",
+    "question": "국가의 위기 속에서 음악의 기록과 전승은 누가 맡았을까요?",
+    "listeningSource": {
+      "title": "국립국악원 · 현행 가곡과 옛 삭대엽",
+      "url": "https://www.gugak.go.kr/ency/topic/view/1636"
+    }
   },
   "korea-1650": {
-    "imageFile": "2008-Korea-Seoul-Jongmyo jeryeak-06.jpg",
-    "imageCaption": "종묘제례악 관련 현대 사진 · 궁중 음악 전승의 참고 이미지",
-    "audioFiles": [],
-    "listeningNote": "현대 연행을 17세기 당시의 음향과 동일시하지 않도록 구분해 보세요.",
-    "question": "만대엽에서 중대엽·삭대엽으로 변화한 까닭을 음악의 리듬으로 설명할 수 있을까요?"
+    "imageFile": "akhak.webp",
+    "imageCaption": "조선 성종 때 편찬한 악서를 후대에 다시 인쇄하여 전했다. 소장본의 형태를 보며 악기와 예식 지식을 책으로 보존한 방식을 살펴보자.",
+    "audioFiles": [
+      "V1-211-010",
+      "S2-211-010"
+    ],
+    "listeningNote": "오늘날의 가곡 우조 초수대엽 1장을 같은 위치의 남창과 거문고 악구로 각각 들을 수 있습니다. 첫 음절이 길게 이어지는 동안 거문고 가락이 어떻게 움직이는지 비교해 보세요.",
+    "question": "만대엽에서 중대엽·삭대엽으로 변화한 까닭을 음악의 리듬으로 설명할 수 있을까요?",
+    "listeningSource": {
+      "title": "국립국악원 · 현행 가곡과 옛 삭대엽",
+      "url": "https://www.gugak.go.kr/ency/topic/view/1636"
+    }
   },
   "korea-1675": {
-    "imageFile": "Hyewon-Tanhyeon.jpg",
-    "imageCaption": "혜원 신윤복의 후대 조선 음악 풍속화 · 17세기 거문고 전승을 이해하기 위한 참고 사료(동시대 작품 아님)",
-    "audioFiles": [],
-    "listeningNote": "당시의 악보와 오늘날의 전승 연주가 어디서 이어지고 달라지는지 비교해 보세요.",
-    "question": "새로운 노래의 등장과 기록된 악보는 서로 어떤 영향을 주었을까요?"
+    "imageFile": "korea-1675.webp",
+    "imageCaption": "18세기 후반 이후 화가 신윤복이 그린 후대의 풍속화다. 악기의 크기, 몸을 기울이는 자세와 주변 사람을 함께 살펴보자.",
+    "audioFiles": [
+      "V1-222-010",
+      "V1-211-010"
+    ],
+    "listeningNote": "현행 가곡의 계면 편수대엽과 우조 초수대엽을 비교합니다. 노랫말이 박 안에 얼마나 촘촘히 들어가는지 짚어 보세요. 《신증금보》를 직접 복원한 녹음과 오늘날의 전승 가곡은 구분합니다.",
+    "question": "새로운 노래의 등장과 기록된 악보는 서로 어떤 영향을 주었을까요?",
+    "listeningSource": {
+      "title": "국립국악원 · 현행 가곡과 옛 삭대엽",
+      "url": "https://www.gugak.go.kr/ency/topic/view/1636"
+    }
   }
 }

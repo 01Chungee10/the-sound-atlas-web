@@ -1,0 +1,141 @@
+.concept-lab {
+  margin-block: 1.3rem;
+  border-block: 1px solid currentColor;
+  border-color: color-mix(in srgb, currentColor 27%, transparent);
+  color: inherit;
+}
+.concept-lab summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 3.7rem;
+  padding: .65rem .1rem;
+  list-style: none;
+  cursor: pointer;
+}
+.concept-lab summary::-webkit-details-marker { display: none; }
+.concept-lab summary::after {
+  content: '+';
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+.concept-lab[open] summary::after { content: '−'; }
+.concept-lab summary small {
+  display: block;
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+.concept-lab summary strong {
+  display: block;
+  font-size: 1.13rem;
+  line-height: 1.5;
+  font-family: var(--serif, serif);
+}
+.concept-body { padding: .15rem 0 1rem; }
+.concept-body .concept-prompt,
+.concept-body .concept-detail {
+  margin: .2rem 0 1rem;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: inherit;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+.concept-variants,
+.concept-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem;
+}
+.concept-lab button {
+  min-height: 2.75rem;
+  padding: .4rem .75rem;
+  border: 1px solid currentColor;
+  border-color: color-mix(in srgb, currentColor 40%, transparent);
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: .9rem;
+  border-radius: .3rem;
+}
+.concept-lab button:hover,
+.concept-lab button[aria-pressed="true"] {
+  background: color-mix(in srgb, currentColor 12%, transparent);
+  border-color: currentColor;
+}
+.concept-lab button[aria-pressed="true"] { font-weight: 750; }
+.concept-graph {
+  display: grid;
+  gap: .35rem;
+  margin: 1rem 0 .8rem;
+}
+.concept-trace-row {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0,1fr);
+  gap: .65rem;
+  align-items: center;
+}
+.concept-row-label { font-size: .83rem; }
+.concept-staff {
+  position: relative;
+  overflow: hidden;
+  height: 2.4rem;
+  border-block: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+  background: repeating-linear-gradient(to right,
+      color-mix(in srgb, currentColor 12%, transparent) 0 1px,
+      transparent 1px 25%);
+}
+.concept-note {
+  position: absolute;
+  height: .29rem;
+  min-width: 1px;
+  background: currentColor;
+  border-radius: 3px;
+}
+.concept-note[data-tone="plucked"] {
+  background: linear-gradient(to right,currentColor,color-mix(in srgb, currentColor 16%, transparent));
+}
+.concept-note[data-tone="glide"] {
+  clip-path: polygon(0 calc(100% - .29rem), 100% 0, 100% .29rem, 0 100%);
+}
+.concept-note:not(:empty) {
+  height: auto;
+  line-height: .8;
+  background: transparent;
+  text-align: center;
+  border-bottom: 2px solid currentColor;
+  font-size: .73rem;
+}
+.concept-playing .concept-staff::after {
+  content: '';
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 2px;
+  background: currentColor;
+  animation: concept-playhead var(--concept-time) linear forwards;
+}
+@keyframes concept-playhead { to { left: 100%; } }
+.concept-play::before {
+  content: '▶';
+  margin-right: .4rem;
+  font-size: .75em;
+}
+.concept-playing .concept-play::before { content: '■'; }
+.concept-actions small,
+.concept-source,
+.concept-feedback {
+  font-size: .81rem;
+  line-height: 1.65;
+}
+.concept-source {
+  display: inline-block;
+  margin-top: .75rem;
+  text-underline-offset: .2em;
+}
+.concept-feedback { display: block; }
+@media (prefers-reduced-motion: reduce) {
+  .concept-playing .concept-staff::after { display: none; }
+}

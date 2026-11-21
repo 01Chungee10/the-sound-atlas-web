@@ -1,0 +1,690 @@
+{
+  "italy-1600": [
+    {
+      "src": "./assets/images/italy-1600.webp",
+      "title": "《오르페오》 악보의 표제면",
+      "caption": "만토바에서 1607년에 초연한 작품을 1609년 베네치아에서 인쇄했다. 표제에서 작품 이름과 작곡가 이름을 찾아보자.",
+      "credit": "클라우디오 몬테베르디 · 리차르도 아마디노 인쇄",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Frontispiece_of_L%27Orfeo.jpg",
+      "alt": "《오르페오》 제목이 인쇄된 1609년 악보 첫 장",
+      "width": 682,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/hero-musicians.webp",
+      "title": "카라바조의 《음악가들》",
+      "caption": "1597년 로마에서 여러 청년이 음악을 준비하는 모습으로 음악을 의인화한 그림이다. 류트와 악보, 악기를 조율하는 손을 보며 17세기 초 노래와 반주의 관계를 떠올려 보자.",
+      "credit": "카라바조 · 메트로폴리탄 미술관, Rogers Fund, 1952",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.metmuseum.org/art/collection/search/435844",
+      "alt": "류트를 든 청년과 악보를 보는 인물이 함께 있는 유화",
+      "width": 1500,
+      "height": 1164
+    }
+  ],
+  "italy-1625": [
+    {
+      "src": "./assets/images/italy-1625.webp",
+      "title": "카발리 《디도네》의 대본",
+      "caption": "1641년 베네치아에서 간행한 대본이다. 관객은 무대에서 듣는 이야기를 인쇄물로도 접할 수 있었다.",
+      "credit": "조반니 프란체스코 부세넬로 대본 · 프란체스코 카발리 작곡",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Cavalli_-_Didone_-_title_page_of_the_libretto,_Venice_1641.png",
+      "alt": "대문자로 작품명이 인쇄된 이탈리아어 대본 표지",
+      "width": 550,
+      "height": 900
+    }
+  ],
+  "italy-1650": [
+    {
+      "src": "./assets/images/italy-1650.webp",
+      "title": "스트라디바리 바이올린의 옆판",
+      "caption": "크레모나에서 1687년에 제작한 ‘올레 불’의 옆면이다. 몸통 가장자리에 새긴 장식까지 볼 수 있는 후속 시기의 사례다.",
+      "credit": "악기 안토니오 스트라디바리 · 사진 Pax Ahimsa Gethen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stradivarius_Ole_Bull_violin.jpg",
+      "alt": "박물관 진열장 안에서 옆으로 본 바이올린",
+      "width": 617,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/harmonie.webp",
+      "title": "키르허의 《보편음악론》",
+      "caption": "로마에서 1650년에 간행한 음악 이론서 제1권의 속표지다. 음악의 성질을 한 장의 도상으로 펼쳐 보이려 한 당시의 발상을 읽을 수 있다.",
+      "credit": "아타나시우스 키르허",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Frontispiece,volume_one_of_%22Musurgia_Universalis%22_by_Athanasius_Kircher,_1650.png",
+      "alt": "여러 연주자와 상징을 세로로 배열한 음악 이론서 앞그림",
+      "width": 611,
+      "height": 900
+    }
+  ],
+  "italy-1675": [
+    {
+      "src": "./assets/images/italy-1675.webp",
+      "title": "로마의 아르칸젤로 코렐리",
+      "caption": "휴 하워드가 1697–1698년경 그린 초상이다. 로마에서 활동하던 코렐리가 손에 든 종이에 주목해 보자.",
+      "credit": "휴 하워드",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Arcangelo_Corelli,_portrait_by_Hugh_Howard_(1697).jpg",
+      "alt": "검은 옷을 입고 종이를 손에 든 코렐리의 초상",
+      "width": 671,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/italy-1650.webp",
+      "title": "스트라디바리 바이올린의 옆판",
+      "caption": "크레모나에서 1687년에 제작한 ‘올레 불’의 옆면이다. 몸통 가장자리에 새긴 장식까지 볼 수 있는 후속 시기의 사례다.",
+      "credit": "악기 안토니오 스트라디바리 · 사진 Pax Ahimsa Gethen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stradivarius_Ole_Bull_violin.jpg",
+      "alt": "박물관 진열장 안에서 옆으로 본 바이올린",
+      "width": 617,
+      "height": 900
+    }
+  ],
+  "france-1600": [
+    {
+      "src": "./assets/images/france-1600.webp",
+      "title": "《왕비의 발레 코미크》의 분수 장치",
+      "caption": "1581년 파리 궁정 공연을 기록해 1582년에 펴낸 책의 삽화다. 다음 세기 궁정 발레의 무대장치를 이해할 선행 사례다.",
+      "credit": "자크 파탱 · 프랑스국립도서관",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Figure_de_la_Fontaine_%E2%80%93_Jacques_Patin_%E2%80%93_Balet_comique_de_la_Royne_%E2%80%93_Gallica_2010.png",
+      "alt": "자크 파탱이 설계한 분수 장치의 인쇄 도판",
+      "width": 604,
+      "height": 900
+    }
+  ],
+  "france-1625": [
+    {
+      "src": "./assets/images/france-1625.webp",
+      "title": "루이 13세 초상 판화",
+      "caption": "왕실 현악 합주단을 후원한 군주를 약 1650년의 판화로 살펴본다. 장식 틀 가운데 왕의 모습이 들어 있다.",
+      "credit": "야코프 루이스 · 메트로폴리탄 미술관",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Louis_XIII,_King_of_France_MET_DP879918.jpg",
+      "alt": "장식 테두리 안에 루이 13세를 새긴 판화",
+      "width": 622,
+      "height": 900
+    }
+  ],
+  "france-1650": [
+    {
+      "src": "./assets/images/france-1650.webp",
+      "title": "태양으로 분장한 루이 14세",
+      "caption": "1653년 《밤의 발레》에서 왕이 입은 태양 의상 도안이다. 방사형 장식이 배역과 왕권을 함께 드러낸다.",
+      "credit": "앙리 드 지세",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Ballet_de_la_nuit_1653.jpg",
+      "alt": "광선 장식과 깃털을 두른 무용수의 금빛 의상 도안",
+      "width": 586,
+      "height": 900
+    }
+  ],
+  "france-1675": [
+    {
+      "src": "./assets/images/france-1675.webp",
+      "title": "베르사유의 도자기 트리아농",
+      "caption": "17세기에 그린 정면 풍경이다. 규모가 작은 궁정 건물과 그 앞의 사람들을 통해 왕실 행사의 공간을 상상해 볼 수 있다.",
+      "credit": "작자 미상",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:17th_century_view_of_the_Entrance_front_of_Le_Trianon_de_Porcelaine.jpg",
+      "alt": "트리아농 건물과 정원을 가로로 펼친 판화",
+      "width": 900,
+      "height": 536
+    }
+  ],
+  "england-1600": [
+    {
+      "src": "./assets/images/england-1600.webp",
+      "title": "다울랜드의 첫 류트 가곡집",
+      "caption": "1597년 초판 표제에 노래의 성부 수와 류트용 태블러처가 함께 적혀 있다. 가정에서도 목소리와 류트를 조합할 수 있었음을 보여준다.",
+      "credit": "존 다울랜드 · 표제 장식가 미상",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Dowland_First_Booke_of_Ayres.gif",
+      "alt": "장식 테두리 안에 가곡집 제목과 류트 표기가 인쇄된 표제면",
+      "width": 551,
+      "height": 900
+    }
+  ],
+  "england-1625": [
+    {
+      "src": "./assets/images/masque.webp",
+      "title": "이니고 존스의 ‘별’ 의상",
+      "caption": "17세기 전반 영국 궁정 가면극을 위한 의상 도안이다. 배역의 이름을 몸짓과 옷의 장식으로 어떻게 드러냈는지 관찰해 보자.",
+      "credit": "이니고 존스",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Inigo_Jones_-_A_Star_(Masque).jpg",
+      "alt": "별 장식을 달고 선 가면극 등장인물의 의상 도안",
+      "width": 507,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/england-1625.webp",
+      "title": "궁정 가면극을 후원한 찰스 1세",
+      "caption": "반 다이크가 1632년에 그린 초상이다. 내전 이전 스튜어트 궁정의 시각문화와 가면극 의상 도안을 나란히 살펴볼 수 있다.",
+      "credit": "안토니 반 다이크",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_King_Charles_I_of_England,_three-quarter_portrait.jpg",
+      "alt": "검은 옷과 흰 깃을 한 찰스 1세의 초상",
+      "width": 714,
+      "height": 900
+    }
+  ],
+  "england-1650": [
+    {
+      "src": "./assets/images/dancing.webp",
+      "title": "1651년 《잉글리시 댄싱 마스터》 초판",
+      "caption": "당대 영국의 춤을 곡조와 함께 묶은 책이다. 누가 어디에 서서 무엇을 했는지 표제 장식 속 춤추는 사람에게서 단서를 찾아보자.",
+      "credit": "존 플레이퍼드 편",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:TheDancingMaster-1stEd-TitlePage.png",
+      "alt": "춤추는 사람들을 묘사한 장식이 있는 교본 표제면",
+      "width": 900,
+      "height": 652
+    },
+    {
+      "src": "./assets/images/england-1650.webp",
+      "title": "플레이퍼드 춤곡집의 장식 머리글자",
+      "caption": "1651년판 《잉글리시 댄싱 마스터》에 쓰인 첫 글자 T의 세부다. 표제면과 비교하면 당시 춤 교본의 인쇄 형태가 보인다.",
+      "credit": "존 플레이퍼드 편 · 토머스 하퍼 인쇄",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:The_English_Dancing_Master-John_Playford-1651_(page_2_cropped_initial_letter_T).jpg",
+      "alt": "식물과 새 무늬로 꾸민 인쇄 글자 T",
+      "width": 900,
+      "height": 861
+    }
+  ],
+  "england-1675": [
+    {
+      "src": "./assets/images/purcell-ms.webp",
+      "title": "《디도와 에네아스》의 필사 악보",
+      "caption": "에드워드 우들리 스미스가 옮겨 쓴 악보다. 성악과 반주가 같은 페이지에 어떤 높낮이로 배치되었는지 살펴보자.",
+      "credit": "에드워드 우들리 스미스 필사 · 영국도서관",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Henry_Purcell_-_Dido_and_Aeneas._(BL_Add_MS_15979_f._4v).jpg",
+      "alt": "퍼셀 오페라의 성악 선율과 반주를 담은 필사본",
+      "width": 900,
+      "height": 723
+    },
+    {
+      "src": "./assets/images/england-1675.webp",
+      "title": "헨리 퍼셀의 초상",
+      "caption": "1695년경 또는 그 이후, 존 클로스터먼 공방 계열에서 제작한 초상이다. 작곡가의 작품과 인물 도상이 전해진 경로를 구분해 볼 수 있다.",
+      "credit": "존 클로스터먼 공방 계열 · 영국 국립초상화미술관",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Henry_Purcell_Closterman.jpg",
+      "alt": "긴 머리와 푸른 옷차림의 퍼셀을 그린 타원형 초상",
+      "width": 734,
+      "height": 900
+    }
+  ],
+  "germany-1600": [
+    {
+      "src": "./assets/images/germany-1600.webp",
+      "title": "하인리히 쉬츠 초상 판화",
+      "caption": "크리스티안 롬슈테트의 후대 초상 판화다. 쉬츠가 이탈리아에서 배운 기법을 독일어권에 전한 시기보다 뒤에 제작되었다.",
+      "credit": "크리스티안 롬슈테트 · 네덜란드 국립미술관",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Heinrich_Sch%C3%BCtz,_RP-P-1914-3479.jpg",
+      "alt": "타원형 틀 안의 쉬츠와 아래쪽에 그의 이름이 인쇄된 판화",
+      "width": 745,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/strings.webp",
+      "title": "프레토리우스의 오르간 풀무 도판",
+      "caption": "1620년 볼펜뷔텔에서 나온 악기 도감이다. 왼쪽의 작업자와 오른쪽의 풀무를 함께 보면 오르간에 바람을 공급하는 데 사람이 필요했다는 것을 알 수 있다.",
+      "credit": "미하엘 프레토리우스",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Syntagma15.png",
+      "alt": "왼쪽에는 풀무를 움직이는 사람, 오른쪽에는 여러 풀무의 측면을 그린 판화",
+      "width": 900,
+      "height": 594
+    }
+  ],
+  "germany-1625": [
+    {
+      "src": "./assets/images/germany-1625.webp",
+      "title": "마그데부르크를 둘러싼 군대",
+      "caption": "1631년 마그데부르크 공방을 1659년에 출판한 도상이다. 전쟁이 교회와 도시 음악가들의 생활 터전에 닿았던 공간을 살펴보자.",
+      "credit": "마테우스 메리안 공방",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Sack_of_Magdeburg_1631.jpg",
+      "alt": "강 건너 도시와 성벽 앞 군대가 한눈에 보이는 판화",
+      "width": 900,
+      "height": 528
+    }
+  ],
+  "germany-1650": [
+    {
+      "src": "./assets/images/germany-1650.webp",
+      "title": "뤼베크 성 마리아 교회 내부",
+      "caption": "북스테후데가 일했던 교회를 요한 뇌링이 1913년 이전에 촬영했다. 회중석 끝 높은 곳에 설치한 오르간이 보인다.",
+      "credit": "요한 뇌링",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Marienkirche_before_1942.jpg",
+      "alt": "뤼베크 성 마리아 교회의 긴 회중석과 정면 위 오르간",
+      "width": 681,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/strings.webp",
+      "title": "프레토리우스의 오르간 풀무 도판",
+      "caption": "1620년 볼펜뷔텔에서 나온 악기 도감이다. 왼쪽의 작업자와 오른쪽의 풀무를 함께 보면 오르간에 바람을 공급하는 데 사람이 필요했다는 것을 알 수 있다.",
+      "credit": "미하엘 프레토리우스",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Syntagma15.png",
+      "alt": "왼쪽에는 풀무를 움직이는 사람, 오른쪽에는 여러 풀무의 측면을 그린 판화",
+      "width": 900,
+      "height": 594
+    }
+  ],
+  "germany-1675": [
+    {
+      "src": "./assets/images/germany-1675.webp",
+      "title": "파헬벨 《카논》의 반복 저음",
+      "caption": "현대에 다시 그린 악보에서 여덟 음의 순서를 따라가 보자. 연주가 계속되어도 같은 자리로 돌아오는 저음이다.",
+      "credit": "벤저민 D. 이셤",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Pachelbel_Canon_bass_line_(quarter_notes).svg",
+      "alt": "라장조로 적힌 여덟 음의 반복 저음 악보",
+      "width": 900,
+      "height": 138
+    }
+  ],
+  "austria-1600": [
+    {
+      "src": "./assets/images/austria-1600.webp",
+      "title": "대주교 초상에 그려진 잘츠부르크 대성당",
+      "caption": "1618년 마르쿠스 지티쿠스 대주교 초상에 들어간 대성당 건설 도상이다. 확대된 부분에서 건물을 세우는 사람들의 모습이 보인다.",
+      "credit": "아르세니오 도나토 마스카니 · 사진 Wolfgang Sauber",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:SM_-_Portr%C3%A4t_Sittikus_1_Dom.jpg",
+      "alt": "그림 속 그림으로 나타낸 대성당의 건축 현장",
+      "width": 854,
+      "height": 900
+    }
+  ],
+  "austria-1625": [
+    {
+      "src": "./assets/images/austria-1625.webp",
+      "title": "작곡가이기도 했던 페르디난트 3세",
+      "caption": "1643년의 황제 초상이다. 빈 궁정에서는 군주가 음악가를 고용하는 일과 직접 작곡하는 일이 함께 일어났다.",
+      "credit": "얀 판 덴 후커",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Ferdinand_III,_Holy_Roman_Emperor.jpg",
+      "alt": "어두운 옷에 넓은 흰 깃을 단 페르디난트 3세",
+      "width": 734,
+      "height": 900
+    }
+  ],
+  "austria-1650": [
+    {
+      "src": "./assets/images/austria-1650.webp",
+      "title": "체스티 《도리》의 베네치아판 대본",
+      "caption": "인스브루크 궁정과 연결된 이탈리아어 오페라가 다른 도시에서도 공연되었다. 이 표제면에는 1667년 베네치아라는 출판 정보가 남아 있다.",
+      "credit": "조반니 필리포 아폴로니 대본 · 안토니오 체스티 작곡",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Cesti_-_La_Dori_-_libretto,_Venice_1667_-_title_page.png",
+      "alt": "《도리》의 이탈리아어 대본 표제면",
+      "width": 463,
+      "height": 900
+    }
+  ],
+  "austria-1675": [
+    {
+      "src": "./assets/images/biber-tuning.webp",
+      "title": "비버의 교차 조율",
+      "caption": "《묵주 소나타》 제11곡의 조율법이다. 가운데 두 줄을 교차하는 지시가 악보에 어떻게 그려졌는지 볼 수 있다.",
+      "credit": "하인리히 비버 · 도판 Patachonf",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Biber-accord-sonate-XI.png",
+      "alt": "조율할 네 음을 기울어진 선으로 연결한 비버의 악보",
+      "width": 602,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/austria-1675.webp",
+      "title": "비버의 1681년 초상",
+      "caption": "잘츠부르크 궁정에서 활동한 바이올리니스트 겸 작곡가다. 판화 가장자리를 따라 이름이 새겨져 있다.",
+      "credit": "파울 젤",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Heinrich_Biber.png",
+      "alt": "타원형 글자 테두리 안에 비버를 그린 동판화",
+      "width": 730,
+      "height": 900
+    }
+  ],
+  "russia-1600": [
+    {
+      "src": "./assets/images/rus-chant.webp",
+      "title": "17세기 필사본의 즈나멘니 성가",
+      "caption": "표도르 크레스티야닌의 성가를 17세기에 옮겨 쓴 자료다. 노랫말 윗줄에 얹힌 기호들을 한 줄씩 따라가 보자.",
+      "credit": "러시아 국립역사박물관 · 사진 Лапоть",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Chants_of_Fyodor_Krestjanin_17c_GIM.jpg",
+      "alt": "글자 위에 어두운색 기호를 이어 적은 성가 필사본",
+      "width": 900,
+      "height": 716
+    },
+    {
+      "src": "./assets/images/russia-1600.webp",
+      "title": "갈고리 모양 기호로 적은 성가",
+      "caption": "19세기 즈나멘니 성가 자료다. 글줄 위의 크류키 기호를 17세기 필사본과 나란히 보면 같은 기보 전통이 이어진 모습을 알 수 있다.",
+      "credit": "작자 미상",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Kryuki.jpg",
+      "alt": "장식 머리그림 아래 붉은색과 검은색으로 쓴 성가 기호",
+      "width": 675,
+      "height": 900
+    }
+  ],
+  "russia-1625": [
+    {
+      "src": "./assets/images/russia-1625.webp",
+      "title": "스코모로히를 그린 민속 판화",
+      "caption": "금지령 이후인 18세기의 러시아 루보크 판화다. 떠돌이 연희자를 어떤 인물로 기억했는지 보여주는 후대 도상이다.",
+      "credit": "작자 미상",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Skomorokhs.jpg",
+      "alt": "연희자들이 움직이는 모습을 선으로 그린 러시아 민속 판화",
+      "width": 708,
+      "height": 900
+    }
+  ],
+  "russia-1650": [
+    {
+      "src": "./assets/images/rus-systems.webp",
+      "title": "두 방식으로 적은 같은 성가",
+      "caption": "17세기 후반의 필사본이다. 전통 성가 기호와 보표 기보를 함께 놓아 두 기보 체계를 비교할 수 있다.",
+      "credit": "러시아 국립역사박물관 · 사진 Лапоть",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Dvoeznamennik_17c_GIM.jpg",
+      "alt": "전통 기호와 선 위의 음표가 함께 보이는 러시아 성가 필사본",
+      "width": 900,
+      "height": 611
+    },
+    {
+      "src": "./assets/images/russia-1650.webp",
+      "title": "17세기 러시아 정교회의 성화",
+      "caption": "벨리코레츠크의 성 니콜라이 성화다. 노래가 울려 퍼지던 정교회 예배의 시각문화를 보여주는 자료다.",
+      "credit": "작자 미상 · 촬영 Wmpearl",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Russian_icon_of_%27St._Nicholas_of_Velikoretsk%27,_17th_century.JPG",
+      "alt": "왼손에 책을 들고 정면을 향한 성 니콜라이 성화",
+      "width": 720,
+      "height": 900
+    }
+  ],
+  "russia-1675": [
+    {
+      "src": "./assets/images/russia-1675.webp",
+      "title": "딜레츠키의 5도권 도해",
+      "caption": "1679년판 음악 이론서에 실린 도해다. 원을 따라 조성 사이의 관계를 배열한 방식을 볼 수 있다.",
+      "credit": "니콜라이 딜레츠키",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Diletsky_circle.jpg",
+      "alt": "필사본 본문 아래 음 이름을 원형으로 배열한 도해",
+      "width": 675,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/rus-systems.webp",
+      "title": "두 방식으로 적은 같은 성가",
+      "caption": "17세기 후반의 필사본이다. 전통 성가 기호와 보표 기보를 함께 놓아 두 기보 체계를 비교할 수 있다.",
+      "credit": "러시아 국립역사박물관 · 사진 Лапоть",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Dvoeznamennik_17c_GIM.jpg",
+      "alt": "전통 기호와 선 위의 음표가 함께 보이는 러시아 성가 필사본",
+      "width": 900,
+      "height": 611
+    }
+  ],
+  "china-1600": [
+    {
+      "src": "./assets/images/china-1600.webp",
+      "title": "탕현조의 《모란정》",
+      "caption": "1617년 간행본이다. 등장인물의 노랫말과 이야기를 독자가 인쇄물로도 만났다는 사실을 보여준다.",
+      "credit": "탕현조 · 세계디지털도서관",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Peony_Pavilion_WDL7112.jpg",
+      "alt": "명대 《모란정》 판본의 한 면",
+      "width": 584,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/qin-notation.webp",
+      "title": "명대 문회당의 금보",
+      "caption": "호문환이 엮어 만력 25년(1597)에 간행한 금보다. 명말에 읽힌 악서의 판식과 세로 글줄을 볼 수 있다.",
+      "credit": "호문환 편 · 문회당 간행",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:ZHSY100228_%E6%96%B0%E5%88%BB%E6%96%87%E6%9C%83%E5%A0%82%E7%90%B4%E8%AD%9C_%E6%98%8E%E8%83%A1%E6%96%87%E7%85%A5%E6%92%B0_%E6%98%8E%E8%90%AC%E6%9B%86%E4%BA%8C%E5%8D%81%E4%BA%94%E5%B9%B4%E8%83%A1%E6%B0%8F%E6%96%87%E6%9C%83%E5%A0%82%E5%88%BB%E6%9C%AC.pdf",
+      "alt": "명대 문회당 간행 금보의 한 면",
+      "width": 900,
+      "height": 759
+    }
+  ],
+  "china-1625": [
+    {
+      "src": "./assets/images/qin-notation.webp",
+      "title": "명대 문회당의 금보",
+      "caption": "호문환이 엮어 만력 25년(1597)에 간행한 금보다. 명말에 읽힌 악서의 판식과 세로 글줄을 볼 수 있다.",
+      "credit": "호문환 편 · 문회당 간행",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:ZHSY100228_%E6%96%B0%E5%88%BB%E6%96%87%E6%9C%83%E5%A0%82%E7%90%B4%E8%AD%9C_%E6%98%8E%E8%83%A1%E6%96%87%E7%85%A5%E6%92%B0_%E6%98%8E%E8%90%AC%E6%9B%86%E4%BA%8C%E5%8D%81%E4%BA%94%E5%B9%B4%E8%83%A1%E6%B0%8F%E6%96%87%E6%9C%83%E5%A0%82%E5%88%BB%E6%9C%AC.pdf",
+      "alt": "명대 문회당 간행 금보의 한 면",
+      "width": 900,
+      "height": 759
+    },
+    {
+      "src": "./assets/images/china-1625.webp",
+      "title": "금 연주자의 손과 악기",
+      "caption": "1906–1912년에 촬영한 사진이다. 탁자에 금을 얹고 두 손을 서로 다른 위치에 놓는 연주 자세를 볼 수 있다.",
+      "credit": "미셸 드 메이나르",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinese_Upper_Class_Man_Sitting_at_a_Table_Playing_the_Qin.jpg",
+      "alt": "탁자에 긴 금을 놓고 양손으로 연주하는 인물",
+      "width": 770,
+      "height": 900
+    }
+  ],
+  "china-1650": [
+    {
+      "src": "./assets/images/china-1650.webp",
+      "title": "붓을 든 강희제",
+      "caption": "강희 연간(1662–1722)의 궁정 초상이다. 책상에 앉은 황제의 모습에서 학문과 예술을 후원하는 군주의 형상을 읽을 수 있다.",
+      "credit": "청 궁정 화가 · 작자 미상",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_the_Kangxi_Emperor_in_Informal_Dress_Holding_a_Brush.jpg",
+      "alt": "책상 앞에 앉아 손에 붓을 든 강희제",
+      "width": 578,
+      "height": 900
+    }
+  ],
+  "china-1675": [
+    {
+      "src": "./assets/images/china-1675.webp",
+      "title": "공상임의 《도화선》 판본",
+      "caption": "1699–1722년 사이에 제작된 것으로 분류된 책이다. 표지에는 작품 제목이, 펼친 면에는 세로 본문이 남아 있다.",
+      "credit": "공상임",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Peach_Blossom_Fan_2012.JPG",
+      "alt": "공상임의 희곡 《도화선》 판본",
+      "width": 900,
+      "height": 791
+    }
+  ],
+  "korea-1600": [
+    {
+      "src": "./assets/images/yanggeum.webp",
+      "title": "《양금신보》",
+      "caption": "양덕수가 1610년에 편찬한 거문고 악서의 디지털 사본이다. 거문고 줄과 괘를 어떻게 배치하는지 보여주는 도해를 실제 악기 사진과 견주어 보자.",
+      "credit": "양덕수 · 국립중앙도서관",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:CNTS-00047980655_%E6%A2%81%E7%90%B4%E6%96%B0%E8%AD%9C.pdf",
+      "alt": "《양금신보》에 수록된 거문고 줄과 괘의 도해",
+      "width": 533,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/korea-1600.webp",
+      "title": "거문고와 술대",
+      "caption": "2008년에 촬영한 두 대의 거문고다. 줄 위의 괘와 아래쪽에 놓인 술대를 찾아보면 옛 금보 속 연주법을 떠올리기 쉽다.",
+      "credit": "김준민",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Geomungo.jpg",
+      "alt": "거문고 두 대와 줄을 뜯는 가는 술대",
+      "width": 900,
+      "height": 900
+    }
+  ],
+  "korea-1625": [
+    {
+      "src": "./assets/images/korea-1625.webp",
+      "title": "남한산성 남문",
+      "caption": "병자호란 때 조선 조정이 머물렀던 남한산성의 오늘날 남문이다. 전쟁 당시 궁중 악공과 악서가 놓였던 역사적 배경을 짚어 보는 장소 자료다.",
+      "credit": "Steve46814",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Korea-Namhansanseong-02.jpg",
+      "alt": "성벽과 누각이 있는 남한산성 남문",
+      "width": 900,
+      "height": 698
+    },
+    {
+      "src": "./assets/images/korea-1600.webp",
+      "title": "거문고와 술대",
+      "caption": "2008년에 촬영한 두 대의 거문고다. 줄 위의 괘와 아래쪽에 놓인 술대를 찾아보면 옛 금보 속 연주법을 떠올리기 쉽다.",
+      "credit": "김준민",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Geomungo.jpg",
+      "alt": "거문고 두 대와 줄을 뜯는 가는 술대",
+      "width": 900,
+      "height": 900
+    }
+  ],
+  "korea-1650": [
+    {
+      "src": "./assets/images/akhak.webp",
+      "title": "《악학궤범》 소장본",
+      "caption": "조선 성종 때 편찬한 악서를 후대에 다시 인쇄하여 전했다. 소장본의 형태를 보며 악기와 예식 지식을 책으로 보존한 방식을 살펴보자.",
+      "credit": "국립중앙박물관 e뮤지엄",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "source": "https://commons.wikimedia.org/wiki/File:Akhak_Gwebeom_1.jpg",
+      "alt": "박물관에서 공개한 《악학궤범》 책의 모습",
+      "width": 574,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/akhak-vol3.webp",
+      "title": "《악학궤범》 권3",
+      "caption": "성종 때 편찬된 궁중 악서의 권3 소장본이다. 음악의 선율뿐 아니라 궁중 예식에 필요한 지식을 체계적으로 기록했다.",
+      "credit": "국립중앙박물관 e뮤지엄",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "source": "https://commons.wikimedia.org/wiki/File:Copy_of_Akhak_Gwebeom_Volume_3.jpg",
+      "alt": "박물관 소장 《악학궤범》 권3",
+      "width": 567,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/korea-1650.webp",
+      "title": "오늘날의 종묘 제례",
+      "caption": "2008년에 촬영한 종묘 제례의 한 장면이다. 궁중의 예식과 음악이 함께 전승되는 모습을 오늘날의 사례로 살펴본다.",
+      "credit": "David McNally · 미 육군 용산기지",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:2008-Korea-Seoul-Jongmyo_jeryeak-06.jpg",
+      "alt": "현대 종묘 제례 행사 장면",
+      "width": 900,
+      "height": 648
+    }
+  ],
+  "korea-1675": [
+    {
+      "src": "./assets/images/korea-1675.webp",
+      "title": "신윤복의 〈탄현〉",
+      "caption": "18세기 후반 이후 화가 신윤복이 그린 후대의 풍속화다. 악기의 크기, 몸을 기울이는 자세와 주변 사람을 함께 살펴보자.",
+      "credit": "신윤복",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyewon-Tanhyeon.jpg",
+      "alt": "거문고를 앞에 둔 사람과 그 주변 인물을 담은 풍속화",
+      "width": 900,
+      "height": 710
+    },
+    {
+      "src": "./assets/images/yanggeum.webp",
+      "title": "《양금신보》",
+      "caption": "양덕수가 1610년에 편찬한 거문고 악서의 디지털 사본이다. 거문고 줄과 괘를 어떻게 배치하는지 보여주는 도해를 실제 악기 사진과 견주어 보자.",
+      "credit": "양덕수 · 국립중앙도서관",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:CNTS-00047980655_%E6%A2%81%E7%90%B4%E6%96%B0%E8%AD%9C.pdf",
+      "alt": "《양금신보》에 수록된 거문고 줄과 괘의 도해",
+      "width": 533,
+      "height": 900
+    },
+    {
+      "src": "./assets/images/korea-grid.webp",
+      "title": "《대악후보》의 정간보",
+      "caption": "1759년에 편찬한 후대 궁중 악보집이다. 국악박물관 전시 사진에서 악보를 칸으로 나누어 시간의 흐름을 표시한 방식을 살펴보자.",
+      "credit": "사진 Piotrus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Museum_of_Traditional_Korean_Music_041.JPG",
+      "alt": "격자로 나누어 음악을 기록한 박물관 전시 악보",
+      "width": 900,
+      "height": 675
+    }
+  ]
+}
